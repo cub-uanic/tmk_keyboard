@@ -40,7 +40,17 @@ Project located at <https://github.com/benblazak/ergodox-firmware>
 //#define MATRIX_HAS_GHOST
 
 /* Set 0 if debouncing isn't needed */
-#define DEBOUNCE    5
+/*
+ * This constant define not debouncing time in msecs, but amount of matrix
+ * scan loops which should be made to get stable debounced results.
+ *
+ * On Ergodox matrix scan rate is relatively low, because of slow I2C.
+ * Now it's only 317 scans/second, or about 3.15 msec/scan.
+ * According to Cherry specs, debouncing time is 5 msec.
+ *
+ * And so, there is no sense to have DEBOUNCE higher than 2.
+ */
+#define DEBOUNCE    2
 
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
 #define LOCKING_SUPPORT_ENABLE
