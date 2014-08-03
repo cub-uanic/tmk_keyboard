@@ -2,44 +2,44 @@ static const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
     /* Keymap 0: Default Layer
      *
      * ,--------------------------------------------------.           ,--------------------------------------------------.
-     * |   ~    |   1  |   2  |   3  |   4  |   5  |   \  |           |   '  |   6  |   7  |   8  |   9  |   0  |   =    |
+     * |   ~    |   1  |   2  |   3  |   4  |   5  |      |           |      |   6  |   7  |   8  |   9  |   0  |   =    |
      * |--------+------+------+------+------+-------------|           |------+------+------+------+------+------+--------|
-     * | Tab    |   Q  |   D  |   R  |   W  |   B  | ~Fn1 |           | ~Fn3 |   J  |   F  |   U  |   P  |   ;  |   [    |
+     * | Tab    |   Q  |   D  |   R  |   W  |   B  |      |           | ~FN2 |   J  |   F  |   U  |   P  |   ;  |   \    |
      * |--------+------+------+------+------+------|      |           |      |------+------+------+------+------+--------|
-     * | LShift |   A  |   S  |   H  |   T  |   G  |------|           |------|   Y  |   N  |   E  |   O  |   I  | RShift |
-     * |--------+------+------+------+------+------|  Fn0 |           | ~Fn4 |------+------+------+------+------+--------|
-     * | LCtrl  |   Z  |   X  |   M  |   C  |   V  |      |           |      |   K  |   L  |   ,  |   .  |   /  | RCtrl  |
+     * | ESC    |   A  |   S  |   H  |   T  |   G  |------|           |------|   Y  |   N  |   E  |   O  |   I  |   '    |
+     * |--------+------+------+------+------+------|      |           | ~FN4 |------+------+------+------+------+--------|
+     * | LShift |   Z  |   X  |   M  |   C  |   V  |      |           |      |   K  |   L  |   ,  |   .  |   /  | RShift |
      * `--------+------+------+------+------+-------------'           `-------------+------+------+------+------+--------'
-     *   | ~Fn1 | ~Fn2 | Caps | LAlt | LGui |                                       |  Lft |  Up  |  Dn  | Rght | ~Fn4 |
+     *   | ~FN1 | ~FN6 |      | Lft  | Rght |                                       |  Up  |  Dn  |   [  |   ]  |      |
      *   `----------------------------------'                                       `----------------------------------'
      *                                        ,-------------.       ,-------------.
-     *                                        | +Fn2 | Home |       | PgUp | Del  |
+     *                                        | Cmd  | Optn |       | RCtrl| Cmd  |
      *                                 ,------|------|------|       |------+------+------.
+     *                                 |      |      | Home |       | PgUp |      |      |
+     *                                 | BkSp |  Del |------|       |------| Enter| Space|
      *                                 |      |      |  End |       | PgDn |      |      |
-     *                                 | BkSp |  ESC |------|       |------| Enter| Space|
-     *                                 |      |      |  Spc |       | Ins  |      |      |
      *                                 `--------------------'       `--------------------'
      */
 
     KEYMAP(  // layout: layer 0: default
         // left hand
-        GRV, 1,   2,   3,   4,   5,   BSLS,
-        TAB, Q,   D,   R,   W,   B,   FN1,
-        LSFT,A,   S,   H,   T,   G,
-        LCTL,Z,   X,   M,   C,   V,   FN0,
-        FN1, FN6, CAPS,LALT,LGUI,
-                                      FN2, HOME,
-                                           END,
-                                 BSPC,ESC, SPC,
+        GRV,   1,   2,   3,    4,   5,   BSLS,
+        TAB,   Q,   D,   R,    W,   B,   NO,
+        ESC,   A,   S,   H,    T,   G,
+        LSFT,  Z,   X,   M,    C,   V,   NO,
+        FN1, FN6,  NO, LEFT,RGHT,
+                                      LGUI,LALT,
+                                           HOME,
+                                 BSPC,DEL, END,
         // right hand
-             QUOT,6,   7,   8,   9,   0,   EQL,
-             FN3, J,   F,   U,   P,   SCLN,   LBRC,
-                  Y,   N,   E,   O,   I, RSFT,
-             FN4, K,   L,   COMM,DOT, SLSH,RCTL,
-                       LEFT,UP,  DOWN,RGHT,FN4,
-        PGUP,DEL,
-        PGDN,
-        INS, ENT, SPC
+             NO,  6,   7,   8,   9,   0,   EQL,
+             FN3, J,   F,   U,   P,   SCLN,   BSLS,
+                  Y,   N,   E,   O,   I, QUOT,
+             FN4, K,   L,COMM, DOT, SLSH,RSFT,
+                       UP,DOWN,  LBRC,RBRC,NO,
+        RCTL,RGUI,
+        PGUP,
+        PGDN, ENT, SPC
     ),
 
     KEYMAP(  // layout: layer 1: F-keys instead of numbers

@@ -79,6 +79,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "keymap_colemak.h"
 #elif defined(KEYMAP_WORKMAN)
 #include "keymap_workman.h"
+#elif defined(KEYMAP_WORKMAN_KINESIS_MAC)
+#include "keymap_workman_kinesis_mac.h"
 #elif defined(KEYMAP_CUB)
 #include "keymap_cub.h"
 #else
@@ -225,4 +227,3 @@ action_t keymap_fn_to_action(uint8_t keycode)
     }
     return action;
 }
-
