@@ -112,4 +112,5 @@ workman: all
 cub: OPT_DEFS += -DKEYMAP_CUB
 cub: all
 
-
+progqwerty: OPT_DEFS += -DKEYMAP_PROGQWERTY
+progqwerty: all
