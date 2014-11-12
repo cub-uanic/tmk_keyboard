@@ -11,18 +11,18 @@ static const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
      * Keymap 0: Default Layer
      *
      * ,--------------------------------------------------.           ,--------------------------------------------------.
-     * |   =    |   1  |   2  |   3  |   4  |   5  |  ~   |           |      |   6  |   7  |   8  |   9  |   0  |   -    |
+     * |   ~    |   1  |   2  |   3  |   4  |   5  |      |           |  =   |   6  |   7  |   8  |   9  |   0  |   -    |
      * |--------+------+------+------+------+-------------|           |------+------+------+------+------+------+--------|
      * | Tab    |   Q  |   D  |   R  |   W  |   B  |      |           |      |   J  |   F  |   U  |   P  |   ;  |   \    |
      * |--------+------+------+------+------+------|      |           |      |------+------+------+------+------+--------|
      * | ESC    |   A  |   S  |   H  |   T  |   G  |------|           |------|   Y  |   N  |   E  |   O  |   I  |   '    |
      * |--------+------+------+------+------+------|      |           |      |------+------+------+------+------+--------|
-     * | LShift |   Z  |   X  |   M  |   C  |   V  |      |           |      |   K  |   L  |   ,  |   .  |   /  | RShift |
+     * | LShift |   Z  |   X  |   M  |   C  |   V  | LCtrl|           | Rctrl|   K  |   L  |   ,  |   .  |   /  | RShift |
      * `--------+------+------+------+------+-------------'           `-------------+------+------+------+------+--------'
      *   | ~FN1 |      |      | Lft  | Rght |                                       |  Up  |  Dn  |   [  |   ]  | MUTE |
      *   `----------------------------------'                                       `----------------------------------'
      *                                        ,-------------.       ,-------------.
-     *                                        | Cmd  | Optn |       | RCtrl| Cmd  |
+     *                                        | Cmd  | Optn |       | Optn | Cmd  |
      *                                 ,------|------|------|       |------+------+------.
      *                                 |      |      | Home |       | PgUp |      |      |
      *                                 | BkSp |  Del |------|       |------| Enter| Space|
@@ -53,21 +53,21 @@ static const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
     KEYMAP(  // layout: layer 0: default
         // left hand
-        EQL,   1,   2,   3,    4,   5,   GRV,
+        GRV,   1,   2,   3,    4,   5,   NO,
         TAB,   Q,   D,   R,    W,   B,   NO,
         ESC,   A,   S,   H,    T,   G,
-        LSFT,  Z,   X,   M,    C,   V,   NO,
+        LSFT,  Z,   X,   M,    C,   V,   LCTL,
         FN1,  NO,  NO, LEFT,RGHT,
                                       LGUI,LALT,
                                            HOME,
                                  BSPC,DEL, END,
         // right hand
-             NO,  6,   7,   8,   9,   0,    MINS,
+            EQL,  6,   7,   8,   9,   0,    MINS,
              NO,  J,   F,   U,   P,   SCLN, BSLS,
                   Y,   N,   E,   O,   I,    QUOT,
-             NO,  K,   L,COMM, DOT,SLSH,    RSFT,
+           LCTL,  K,   L,COMM, DOT,SLSH,    RSFT,
                        UP,DOWN,LBRC,RBRC,   MUTE,
-        RCTL,RGUI,
+        LALT,RGUI,
         PGUP,
         PGDN, ENT, SPC
     ),
