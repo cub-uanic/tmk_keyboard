@@ -1,0 +1,1151 @@
+<KTouchLecture>
+ <Title>Workman + symbols from Dvorak for programme</Title>
+ <FontSuggestions>Courier 10 Pitch</FontSuggestions>
+ <Levels>
+  <Level>
+   <NewCharacters>tn</NewCharacters>
+   <Line>n tn n n n ntn tn n tn t tn t tn t n n t t</Line>
+   <Line>ntn t ntn ntn ntn n ntn tn ntn ntn n ntn t</Line>
+   <Line>n t tn t t tn n tn n t n tn n tn tn n n ntn</Line>
+   <Line>n t ntn ntn t n tn ntn ntn tn ntn ntn n n</Line>
+   <Line>n tn t tn n t t t ntn tn n n t tn t t tn t</Line>
+   <Line>ntn tn n n tn ntn n tn t n t t n tn n tn n</Line>
+   <Line>t n tn ntn n n ntn n t tn t tn n tn tn ntn</Line>
+   <Line>ntn tn t tn ntn n ntn ntn tn n n n t tn t</Line>
+   <Line>tn tn ntn t ntn ntn t ntn n ntn t ntn n ntn</Line>
+   <Line>t ntn ntn n t t n t n ntn ntn t ntn ntn ntn</Line>
+   <Line>tn n t n ntn ntn n ntn n ntn n ntn n ntn ntn</Line>
+   <Line>n t ntn ntn tn n n tn t t tn t ntn t n tn</Line>
+   <Line>n t n t t ntn t n n n n n t n n t tn ntn n</Line>
+   <Line>n ntn t ntn t ntn t tn tn ntn ntn t ntn t</Line>
+   <Line>t n tn t t ntn tn t n tn tn n tn ntn tn t</Line>
+   <Line>n ntn t tn tn tn t ntn t ntn tn t t t tn ntn</Line>
+   <Line>t t t tn t ntn n t t tn t ntn tn n t ntn ntn</Line>
+   <Line>tn t t t tn n tn tn ntn n ntn n tn ntn tn</Line>
+   <Line>n n n t ntn t tn n n n n ntn n t tn n n n</Line>
+   <Line>tn t ntn tn n tn tn n tn tn ntn t t ntn t</Line>
+   <Line>tn n t ntn ntn tn ntn ntn tn tn n n t n n</Line>
+   <Line>tn tn tn t t tn ntn ntn ntn t tn tn tn ntn</Line>
+   <Line>tn n t tn t n tn ntn n t t ntn t tn n tn ntn</Line>
+   <Line>tn t t n tn n ntn tn ntn n n tn ntn n t ntn</Line>
+   <Line>tn n t ntn tn n ntn ntn tn tn t n ntn ntn</Line>
+   <Line>ntn tn n t tn ntn t t t t tn tn n tn ntn t</Line>
+   <Line>t t t ntn n ntn ntn n ntn tn ntn n tn tn n</Line>
+   <Line>tn n t ntn tn n t n tn ntn ntn t ntn t n t</Line>
+   <Line>ntn tn tn tn ntn tn t ntn t ntn tn tn tn t</Line>
+   <Line>tn t t n t n t tn t ntn t n t t t tn tn t</Line>
+  </Level>
+  <Level>
+   <NewCharacters>he</NewCharacters>
+   <Line>h e h e h h e e h e he eh hh ee hh eh eh he heh he heh hehe</Line>
+   <Line>ten h nth eh h ten h net he hen tee nth h he nth ten tee the</Line>
+   <Line>h he the ten tee eh ten nth the ten nth he net the</Line>
+   <Line>eh tee tee net he h he he nth hen tee ten hen eh</Line>
+   <Line>he eh he the h ten e he e tee h h e hen tee h h nth</Line>
+   <Line>he nth eh ten h tee he net tee he hen tee net net he nth</Line>
+   <Line>h tee nth nth hen nth e net the h net h the eh ten he</Line>
+   <Line>net he h ten the eh h net net he hen hen e he nth e</Line>
+   <Line>tee he nth nth ten h e h the tee net net e tee h net net</Line>
+   <Line>hen ten he eh the hen tee eh h ten tee hen nth he ten</Line>
+   <Line>nth hen e net e nth net h eh nth eh he nth net net</Line>
+   <Line>h he the the nth net the hen he h eh eh h net he</Line>
+   <Line>h tee he ten e nth net h e h hen the hen hen h h he net</Line>
+   <Line>nth the eh he net nth net hen hen ten e h e net nth</Line>
+   <Line>hen e net tee net eh nth hen tee ten hen e hen h</Line>
+   <Line>tee e hen he he net net hen the nth the tee tee nth net</Line>
+   <Line>he ten ten hen ten h nth nth e ten nth hen eh tee nth</Line>
+   <Line>the net net eh net h the ten h h h ten net he nth</Line>
+   <Line>the net h h tee tee h tee he hen tee ten ten eh eh</Line>
+   <Line>hen tee e tee the hen h ten the hen hen net net hen</Line>
+   <Line>h h h hen e hen he h e the the h tee tee he h e net</Line>
+   <Line>ten h nth nth e the eh eh net nth eh hen the eh hen</Line>
+   <Line>ten ten tee he he ten the he ten nth nth ten the nth eh</Line>
+   <Line>the ten e eh h h h hen nth he hen hen e hen ten the</Line>
+   <Line>eh tee e net hen h e hen nth eh hen ten the the net</Line>
+   <Line>ten h he nth hen the h tee he e h ten e the ten e</Line>
+   <Line>he then entente tenth thee teethe net teeth the</Line>
+   <Line>nth tent teeth net thee net tent ten tenet entente tenet</Line>
+   <Line>eh entente eh nth teen ten tee eh h the teen nth tenth</Line>
+   <Line>he ten teeth tenet he he teen tenth then he h hen thee then</Line>
+   <Line>h teethe e tenet thee h tent entente eh tee he then</Line>
+   <Line>nth then net teen then tent then entente hen eh tee</Line>
+   <Line>teethe ten nth teen then net net the entente eh</Line>
+   <Line>then hen tenet e hen hen net he teen net tenet teethe</Line>
+   <Line>tee tenth then thee h he hen tenet net nth tenet tee</Line>
+   <Line>teen h tee then teethe thee teethe tent e entente tent</Line>
+   <Line>tent tee tenet tent entente tenth teethe eh eh eh</Line>
+   <Line>thee thee teen he thee ten tent eh entente thee hen</Line>
+   <Line>then h net entente e teen tenet the teethe he thee</Line>
+   <Line>tee h tee tent teeth h tent net thee he ten h nth teeth</Line>
+   <Line>thee ten tee nth entente tenth tent entente he then</Line>
+   <Line>tenet nth entente h eh teen the tenth thee e he teen</Line>
+   <Line>eh tent nth teen thee thee teen then entente teeth tenth</Line>
+   <Line>e eh teen eh ten teethe entente eh teen nth he ten ten</Line>
+   <Line>then then teeth tenth thee teethe entente nth tee</Line>
+   <Line>net ten teen tee thee thee net hen the eh teeth hen</Line>
+   <Line>tenth net the entente entente entente teethe h</Line>
+   <Line>then h tenth teeth tee tenth tenet h tee entente net</Line>
+   <Line>tent thee teeth tenet the teen nth e tee entente then</Line>
+   <Line>tee entente he tent nth h ten he teeth tee he tee</Line>
+   <Line>he hen tenet tee teethe tent he e teethe entente ten</Line>
+  </Level>
+  <Level>
+   <NewCharacters>so</NewCharacters>
+   <Line>o s o s s o o o s so set nest net son not nos ton</Line>
+   <Line>set nest net o s o s s o o o s nos ton so son not</Line>
+   <Line>note oh sots tho shoo too soon note tone she sent tost</Line>
+   <Line>ohs shoe not soon hoes ohos nest seen sees see nosh</Line>
+   <Line>hot sees too eons ones host she tots note toss shoo seen</Line>
+   <Line>tone note so shes es non neon toes non sent snot on</Line>
+   <Line>she es shoe shes sh tons non tons test es noes shoe tots</Line>
+   <Line>hot onto shoe nets tons eon none neon neon test eon hens</Line>
+   <Line>shes toot hot toes es hes sots nets hone sees shes</Line>
+   <Line>tost hot non she hoes tees so hos sons hose eon shot</Line>
+   <Line>shoo no hone seen es soon tons nose neon neon toot eon</Line>
+   <Line>hos hot eon see onto tons ts sons nosh toe hoes one</Line>
+   <Line>s none toot none oh tho tot set ohos host hone shes sees</Line>
+   <Line>soon toot one seen test soot oho s tost toes shoo</Line>
+   <Line>not shot sees ho toes tots test soot son hoes hes</Line>
+   <Line>toes shes sots ohos oh tote sets toot on not hot non</Line>
+   <Line>nest sons tens shes noon noes too hoot soot tot toot</Line>
+   <Line>test to neon hens ohs s tost ohos son tot ohos hes</Line>
+   <Line>hose ho note hose hoot o hens tots snot hes shoe toss</Line>
+   <Line>hose shot tees tho she shot toot ohos see sots shoo</Line>
+   <Line>tons ohs eon she tost ts ohos non hone hot no nosh shot</Line>
+   <Line>on ohs toot hone tees toes oh seen hone oho noes tens</Line>
+   <Line>hose nest soot set sons tho not nosh none shoe tho</Line>
+   <Line>nosh not hose oh hoot sets so nose hoe eons sots nets</Line>
+   <Line>ts es no toe test neon sot ohos not oh set hot nosh</Line>
+   <Line>sh o to ts she eons noes hose on noes hot noes o</Line>
+   <Line>sot sees tots hos tot hes tho shes note ho tote shoo</Line>
+   <Line>hos onset hostess sot thees those sheet not sees</Line>
+   <Line>host ho those not hosses tenon hostess tense tests</Line>
+   <Line>neon snot sot stone sooth shoot tests tost teens hones</Line>
+   <Line>sot honest tensest hottest soothes tenets tenths eon</Line>
+   <Line>o tost shots hens toes soothes onto onsets none</Line>
+   <Line>settee soothes nests teens soon to tons nosh hoe tost</Line>
+   <Line>hottest sots tote sot tenons sh shone sots tooth one</Line>
+   <Line>honest tenses sonnets nest non tenths soot tonnes hens</Line>
+   <Line>tenons hoots noshes tone no tones on ohos honest nooses</Line>
+   <Line>tonne tensest tho ohos onset nose no tons she soon</Line>
+   <Line>no onto tests sheets shoots tots hos hone sets hosses</Line>
+   <Line>ethos tho hes shoot so she tensest shoes tees theses</Line>
+   <Line>hoots sees noose non neon she toes tho thees ho</Line>
+   <Line>hostess soothes noose seen test tone sense noses eon</Line>
+   <Line>sees shes toots sooth shots hoes note nets noses</Line>
+   <Line>hose sons sets o seethes sense oneness hoes hose hoots</Line>
+   <Line>tho shone notes these nests hosses ethos sees neon</Line>
+   <Line>sons noon sots theses soon no son seethes nosh not</Line>
+   <Line>nests tenons tots snot tests sh sooth hoot nests hose</Line>
+   <Line>ton nooses these teethes sons tot senses sheen snoot</Line>
+   <Line>too tots es shes sooths noose hoses hoot notes oh</Line>
+   <Line>too tones sheets shot sonnets shoe honest ones neon</Line>
+   <Line>s too toss nets noshes no settees sheets oho soon shes</Line>
+   <Line>seethes to sons hoses hens tones snoot tense shot seethe</Line>
+   <Line>soot settees tees tote nests tenets tensest tote</Line>
+  </Level>
+  <Level>
+   <NewCharacters>ai</NewCharacters>
+   <Line>aeon stoat ease hints ease atone anti tat nits shies</Line>
+   <Line>aha satin tithe saith teats shine atone taint hah</Line>
+   <Line>tithe stain shine teas ants in into tines hits nits</Line>
+   <Line>sass eat taint teats inns hint iota shat sans than</Line>
+   <Line>oath hints oats hats ahas ah sit hint ashes heats stoat</Line>
+   <Line>ants snit iota saith aeon tats sate ash tie sash</Line>
+   <Line>hahs satin a heath as tea neat asset shine hits shins</Line>
+   <Line>ion tit anon sine taint seas stoat sates his hahs</Line>
+   <Line>it oats sanes at eat snit onion inti onion ease shin</Line>
+   <Line>tins hit seats that tans ashen hint hints nit nit</Line>
+   <Line>hints hit saith ashes his shat eats an sanes tines</Line>
+   <Line>ion ions tat ion ate hahs oasis anon sea sine stain</Line>
+   <Line>sis hate tan snits hash anti at tins that teat site hies</Line>
+   <Line>anon tint ani hath tithe sat stint snits snits tits</Line>
+   <Line>hiss nit tits sanes it shah tea seat hash sin is</Line>
+   <Line>sits tease senna ion an shat stain sine hi sine ion</Line>
+   <Line>ease asset ease hint tie inn anon sties tint titan nits</Line>
+   <Line>nines taint inane ante tithe sans in sit sine hiss</Line>
+   <Line>tits iota heat hits sate heath tan tits as senna saith</Line>
+   <Line>onion ani as sat snit inti nines sises is its shine</Line>
+   <Line>a ahas neath tie i iota seats ashen sites tea stoat teats</Line>
+   <Line>shins saith ass neat sea ates oasis heats state an</Line>
+   <Line>tithe sit sins tins tines ashen tin shine tints nine</Line>
+   <Line>an stoat shit ions tint stein heats ions hath inti</Line>
+   <Line>snits tines satin sanes ashen shah shah hath tats tea</Line>
+   <Line>titans shat ates sanest tat ahas noise noises anons tastes</Line>
+   <Line>senate intense senates stein saint nits hath sheathe</Line>
+   <Line>intents sasses oat testis sin hit notions inane</Line>
+   <Line>easies neatest east stein assist ant stoats senates</Line>
+   <Line>oats shine atones attests stein thine taste ah eaten</Line>
+   <Line>oat hats atheist iota siestas tannin sat thin onion ashen</Line>
+   <Line>hints tan sasses hasten ion attains tithe sate hisses</Line>
+   <Line>toniest sheaths inanest iotas seasons tattoos this</Line>
+   <Line>asinine tins anise ash estate tats snits sonnies tiniest</Line>
+   <Line>hiss taint ti ass intense theist tinnies sins eta</Line>
+   <Line>tannest tenant saith ants satin stain hah stint instant</Line>
+   <Line>stoats it has anoint antes neonate oats neonate sheath</Line>
+   <Line>attest stint thesis hies into ninths it assents an</Line>
+   <Line>hashish tie oaten sises teas hiss sanest noise insist</Line>
+   <Line>ease tattoos stashes attain atone assists sashes sash</Line>
+   <Line>ants hits toniest hit sane hoists ninths attain shies</Line>
+   <Line>tints assets than hosanna titans ant sonnies at</Line>
+   <Line>nation assists toast sonata tannin shits theists hoists</Line>
+   <Line>insets anion state seasons ti antes heathen than sass</Line>
+   <Line>hahs haste hoist neat saiths anons teats assets asses</Line>
+   <Line>tea saint titans ants neath hastes oats neath tins</Line>
+   <Line>sass hie tin tits sin easies hashes asset its hints tint</Line>
+   <Line>teases noise hi hoists season than nannies shit</Line>
+   <Line>intones stashes a tithe sea at tannest hath satiate hiss</Line>
+   <Line>insane than anti hiss insets stein hie anon anions</Line>
+  </Level>
+  <Level>
+   <NewCharacters>wf</NewCharacters>
+   <Line>town whew awes whits woes whets ewes owe sown wow</Line>
+   <Line>ifs fan shift wite wanes watt fasts fests new sewn</Line>
+   <Line>wases awe watt hoof wot newt own show of fin fats</Line>
+   <Line>wean wean foe fin wash fief fit foes fife fins if</Line>
+   <Line>weft wises woe foot f off swoon waif f shows fist</Line>
+   <Line>hew wow want woe now sofa afoot swine ow owe fen</Line>
+   <Line>wino stow wash west how own wean feat thaw when</Line>
+   <Line>fests fa weft wash new sofa oafs snow fine tow fates</Line>
+   <Line>wait wot sown owes snow shift safe wish owes fens new</Line>
+   <Line>twine fee shift of oft weest woos went ewes wish we</Line>
+   <Line>sheaf woo stew owns wash wafts wet fists fa news</Line>
+   <Line>wise was shows sweat wees sweat wino wee wen wife of</Line>
+   <Line>wite twit swish ifs fees woe wets fens shift now soft</Line>
+   <Line>fin fief wises wot feat wash swoon we fain fiat foot show</Line>
+   <Line>sheaf tiff wow owns wife twee ewes foe we thaw owns</Line>
+   <Line>sows fates oft how sift owes hefts whets owns fan</Line>
+   <Line>afoot foist fins fees wefts wanes twee hoof fate watt</Line>
+   <Line>whoa wises fate swoon shown wife weft fish watt two</Line>
+   <Line>wets w whits two saw soft fin off fee swat wise want wows</Line>
+   <Line>fee woo sows how sew wait town fins news went wist</Line>
+   <Line>woos whit hewn wets own fate wests wean whew fats tow</Line>
+   <Line>fits feat now snow whet west wane when fiat fests font</Line>
+   <Line>watt twist whit swish sawn fins was snow fest waft ewes</Line>
+   <Line>awe watt haft fees wanes show fin swoon wean wine</Line>
+   <Line>saws if with wean font now hews when fist how with now</Line>
+   <Line>shows twines wens sweets whews whew waists newses toffee</Line>
+   <Line>twits fission stiffen sinew whit wants taffies nitwits</Line>
+   <Line>who infant whew withes softie sweeten infest wean</Line>
+   <Line>shafts foe swishes fasten sifts stow fastest sniff</Line>
+   <Line>fitness hafts fain wafts we fasts swans fine staff</Line>
+   <Line>show oafs finises wattest seesaws foot sofa often waifs</Line>
+   <Line>white wife off staffs new withe festoon taffies fainest</Line>
+   <Line>fission woe wet fastest foots oafish fiestas who</Line>
+   <Line>wattest wost twin stiffs fashion tiffs woofs fiestas</Line>
+   <Line>went saw wises waits wits wins infests haw infest white</Line>
+   <Line>fifes fawn fees hews snows fattest news finises faints</Line>
+   <Line>font fawns fewest woof afoot own swift fawns sweets</Line>
+   <Line>oafs woo sewn twain f faiths whits winnow wattest wanna</Line>
+   <Line>foots now wash news feats feats infests wins newness stows</Line>
+   <Line>swish fashion sweats whits fifties fannies swoons finis</Line>
+   <Line>wefts anew sweats twists fit owe hew awash nitwit sofa</Line>
+   <Line>infests waists twin saws wefts fist wit wines fission</Line>
+   <Line>softest fists hoof newts safe tweets nitwits feint finesse</Line>
+   <Line>softens feasts hewn withe wont heehaws sofas thaws</Line>
+   <Line>info twee whose fatties fannies fifes washes winos</Line>
+   <Line>aft staffs stew newton sews own whiff whew within wan</Line>
+   <Line>wise whoa tiffs whiffs fan festoon whoosh wet</Line>
+   <Line>taffies hoof weest whews fist stow who fee stiffen washes</Line>
+   <Line>newt faint swath fan watts saws waist whens swats faiths</Line>
+   <Line>fa wettest weft fain theft haws with offset offense</Line>
+  </Level>
+  <Level>
+   <NewCharacters>bj</NewCharacters>
+   <Line>jabot jet ibis stab bib bit baton beefs boas ebbs</Line>
+   <Line>bow stab bin beta abbot hobo booth bast basin be</Line>
+   <Line>obese bets jots beat beans ebb bate betas boss job</Line>
+   <Line>jot bent bits ebbs oboe sob hobo bane beta bites boat</Line>
+   <Line>ebb jots jobs nibs jibes jaws webs boon fibs ban</Line>
+   <Line>webs boat jabs bani bani bans boons beta snob bests</Line>
+   <Line>best bee boss boob bites boob boa fib beans jets boob</Line>
+   <Line>booth bits best jib boa nib bites bate beefs boos both</Line>
+   <Line>both bees bin oboe beans b bit j base nab bosh ban tibia</Line>
+   <Line>jaws oboes josh boons boa snobs abaft jabot bane</Line>
+   <Line>bits abaft jest bit base john be fob babe job webs</Line>
+   <Line>bone basin be snobs baas abaft sob bins boats jot</Line>
+   <Line>jib jabs basin jabot beta bees abet banes boobs boat</Line>
+   <Line>betas bee bent beef bees bobs jinn babe sobs boss banes</Line>
+   <Line>bite bet jaws banjo banns bash jinni beefs hob</Line>
+   <Line>boon jib josh boots bate bah bean bent job abbot jinni</Line>
+   <Line>basts ebbs sob sob bast hobs bests best bins booth joist</Line>
+   <Line>bias j bass jibs tibia betas bait baton bathe j</Line>
+   <Line>banes betas boon beats bat bans bee bane jab bite ban</Line>
+   <Line>jots snob bean bath beans ban babe ebbs sahib hobo</Line>
+   <Line>boas bosh fob sobs john banns beat bate bate nabs ibis</Line>
+   <Line>boats bane jibe jab bias bats oboes sob bass webs bees</Line>
+   <Line>fobs baton boss baton boons jibes bet b beans banns</Line>
+   <Line>fobs john basts boo fobs beef nab sob booth ebbs bone</Line>
+   <Line>bias bat beef abbot beet sob both bibs tab befit</Line>
+   <Line>abet ban nabs benefit bobs bobbins bass bests bate</Line>
+   <Line>bitten boat beats befits bane j abbot boons boasts bin</Line>
+   <Line>ibises basin banshee baboons beat abases swabs behest</Line>
+   <Line>jots babiest nib babe bonito between tab basin jibs</Line>
+   <Line>besets be bonnets joist nabob benefit beefs beet offbeat</Line>
+   <Line>banns bassist jibe web best abet babes beneath jobs</Line>
+   <Line>jests nabs enjoins bobbies fibs jibes babes bets</Line>
+   <Line>hob bones bisons bones beans habits beasts be</Line>
+   <Line>best snobs taboo taboo jaws besot bootee nabs bash</Line>
+   <Line>bobbin hobbit obsess basins offbeat jaws bani bone</Line>
+   <Line>hob besot bathe newbies bones bassos bonbon babies</Line>
+   <Line>absinth bee taboo nabs banana offbeat tabs jobs ibis</Line>
+   <Line>bane bahs fob tabbies hob obese bassi besots bosses</Line>
+   <Line>bibs jeans jib bobbin bins bets nabob bans bate battens</Line>
+   <Line>baobab hobnobs beset behest bit stabs batten bassoon</Line>
+   <Line>obtain behest ebb baa boots abash bites newbie bonnie</Line>
+   <Line>taboo basin joists abaft beneath swab abet hoboes bisons</Line>
+   <Line>baste bobbin basin ban banshee ban abbess abbess boot</Line>
+   <Line>boots tab baa bonbons newbies jaw taboos bahs joists</Line>
+   <Line>banjoes basses ninja bow bobbins base jibe taboo been</Line>
+   <Line>jinni tibia jobs bathes jabot bosh be john bestow beaten</Line>
+   <Line>fobs besots befits basin ibis bent bobbins bias</Line>
+   <Line>bananas baobab bet bins banshee newbies abates taboo</Line>
+   <Line>nibs hoboes wannabe oboist wannabe boast boasts taboos</Line>
+   <Line>bones nabs bits bashes hobbies stab bestow ebonies</Line>
+  </Level>
+  <Level>
+   <NewCharacters>ru</NewCharacters>
+   <Line>tours tar rues burnt wrote unfair trots saber toner</Line>
+   <Line>sirs rouse brains russet writs riff bares burr throbs</Line>
+   <Line>wrote trusts rajah fore herbs afresh abuses wiser</Line>
+   <Line>torso tuber rabbi uh aortas thrown ether stun suite</Line>
+   <Line>bunion oar fret rite reset earns stern futon sonars tinier</Line>
+   <Line>butane ratios tortes horse terns urns untie fart</Line>
+   <Line>water user forte tofu stirs joust harts inert soars</Line>
+   <Line>tutu unease beer fare tore wuss runt rosin untie shout</Line>
+   <Line>earn worsts renew herons ewers stater auto start brunet</Line>
+   <Line>rabbi ruts frat rosier furs trash faster reborn artier</Line>
+   <Line>fuss rerun buts roof areas inter eater nut hooter haters</Line>
+   <Line>fresh brr iron terns barbs refit brunet busies buns</Line>
+   <Line>robes ferret ran shout errors towers snafus huhs urn</Line>
+   <Line>sure bureau resins breast sir sauna bars inert sorta</Line>
+   <Line>broth ruff barter sauna firth entire rise rebate</Line>
+   <Line>barfs wares earn whirs joust inaner north shirt or</Line>
+   <Line>heirs fores shore heart errata stuff surfs tor bust</Line>
+   <Line>huts ware fair rout harsh jaunt terse tuna tribes</Line>
+   <Line>troth uh shire beau artier bear tubs aria wire stern</Line>
+   <Line>r sorer sun worn ours roes wares wreath fore throbs sue</Line>
+   <Line>rarer tubae bribe jeer arias riots irate short tiara</Line>
+   <Line>sierra brat fusses wrath fusses bores earn rift fort</Line>
+   <Line>erase heirs tribes inaner born jut afire russet sues</Line>
+   <Line>shrew wore trues waster surer wear sues biers areas</Line>
+   <Line>tufts user tors reefs rub abuts route stuns hart</Line>
+   <Line>arena fours harass tubbier bistro fear soars retain nouns</Line>
+   <Line>sunset rust tureen sower sassier ears rabbi shutout</Line>
+   <Line>arenas tartest trustee hearten tartars erase effort</Line>
+   <Line>r writ rots tuners straw bra nastier furor snowier sinus</Line>
+   <Line>fainter sure renown banters era bonfire testers aunt</Line>
+   <Line>insert wrier hubs rainier sustain return fibber aorta</Line>
+   <Line>boorish rotor shares briefer arenas subsets ran</Line>
+   <Line>rose ran baronet errants runs tatters firth writers riffs</Line>
+   <Line>sneer wiriest unjust oars taunts intuit rower nub unbent</Line>
+   <Line>forties shires snorers steers terrier unhorse sinuous</Line>
+   <Line>renew wrote hires arts forts outworn rubber rots</Line>
+   <Line>throes oration rhubarb bosuns sort bestir urinate borne</Line>
+   <Line>refiner nu bitters antiwar buffet sewers butts tenure</Line>
+   <Line>whiners tuner hotter suit barter aeries juniors butt</Line>
+   <Line>snafus trust rebates jurors raja turban huff wries rattan</Line>
+   <Line>out fuss rebuses firths teasers harrow thous twister beau</Line>
+   <Line>fishier foresaw hitter bus hoarser inborn tawnier nature</Line>
+   <Line>shirt nut tier bonier sera shirr utters barrens swatter</Line>
+   <Line>unhorse horse wafers titter sojourn jesters woofer rosins</Line>
+   <Line>fewer wusses herein unbar threw rajas assort serous</Line>
+   <Line>ewer juts surfers refiner rebut taro tore tartans roots</Line>
+   <Line>written sorters throws tush affairs astute senator</Line>
+   <Line>beer renew unfair thrown refuse intros about weather</Line>
+   <Line>unsafer burners isobar throat briars assorts suffers</Line>
+   <Line>sourer abouts brutes fetters tether tubbier twitter</Line>
+  </Level>
+  <Level>
+   <NewCharacters>dp</NewCharacters>
+   <Line>traps podia papaw troop tired needed dates deport snipes</Line>
+   <Line>profit put ides torrid asp dwarfs rodeos aided pup</Line>
+   <Line>dread urned nodded winds posse dweeb turnip douse prop</Line>
+   <Line>trades rends raids rubbed spared sender triad drab</Line>
+   <Line>dried bird poops defend reaped pith poseur unhand deeds</Line>
+   <Line>debit denies dope pssts dins pined papers d issued puss</Line>
+   <Line>drape winds pear swop pseudo sport deepen rapier aired</Line>
+   <Line>pester sand purist forded breed aspen sap preen frond</Line>
+   <Line>fjord eddies pot nodes burden tithed rated props spurt</Line>
+   <Line>reaper sirred tap poured swops ups need prods hoed</Line>
+   <Line>deader spares read showed dose seeps dander purr pub</Line>
+   <Line>inputs absurd breads pops shrewd dust fjord spats pond</Line>
+   <Line>ashed peas due and arid nopes repast warred needed phones</Line>
+   <Line>tripod doers poor ado preses put tundra indoor debit thuds</Line>
+   <Line>drew bud japan rubied send pause herded sedan props</Line>
+   <Line>pars dares reader dust snides puree donuts beefed</Line>
+   <Line>sods hided porn wed rodent offed fished waned fopped</Line>
+   <Line>fend doe pawn odious saned sedans wraps depot abode parse</Line>
+   <Line>spite spurs bide ired appear poop pepper dweeb redraw</Line>
+   <Line>potato roared frond spout jape pear rend hides hippie</Line>
+   <Line>dust hasps pasts prow dope shed depth sadist hods</Line>
+   <Line>bashed robed roared opined fend ford paints posh aped</Line>
+   <Line>dander hard sewed peanut waited pends dope adored</Line>
+   <Line>wood babied tuned pound nodes pares tundra jade</Line>
+   <Line>spawn rotted aboard reed hewed render pawed dwarfs</Line>
+   <Line>renders bredes taproot pipers pissed serape stript defeats</Line>
+   <Line>passer undo spat strafed ripped disses pound pest outed</Line>
+   <Line>sered android drooped potpie beds reds sepsis dunner</Line>
+   <Line>paused tips prune pents tied fished steads dado</Line>
+   <Line>pour trope bred ids fad photons parses torpedo towards</Line>
+   <Line>dandier spooned seabird fronds spouse need stood</Line>
+   <Line>dustier debuted treated snippet offside dots rides</Line>
+   <Line>orotund propane shards pinned droops peeper upon</Line>
+   <Line>rubdown needs duster tipsier duet titted wordier anted</Line>
+   <Line>atoned trued fawned send tape peso pursuit depends bawdier</Line>
+   <Line>tarpon bounded rowdies abodes phonied pured prows</Line>
+   <Line>wades foppish harried updates denotes waders spare</Line>
+   <Line>eider paired puttied refused sadder adobe paired prints</Line>
+   <Line>sutured portend adopt operand paints toad worsted</Line>
+   <Line>spiders shunned option needs dash sheep adepter aided</Line>
+   <Line>around awards rowdier derbies aspirin robbed jutted</Line>
+   <Line>pinnate speared bonds fasted soused rained swipes done</Line>
+   <Line>path phonier ropes tasted sanded fade radiate sapient</Line>
+   <Line>warded reed hoboed pupped toads steeps peanuts honored</Line>
+   <Line>pshaws daubers poster tornado donuts upturn opened spits</Line>
+   <Line>pander showed upend doored period adhere turd hods derides</Line>
+   <Line>fund hoboed darns ponder peso rapper prods forded</Line>
+   <Line>shadow adapter petted wearied ride wrested rips swords</Line>
+   <Line>superb rowed dropped pips adroit duress panther piteous</Line>
+   <Line>pents sadness pub torrid punt taunted poses opened stashed</Line>
+  </Level>
+  <Level>
+   <NewCharacters>q$</NewCharacters>
+   <Line>quip$ quaffs piqued queer$ equate torque squire quit</Line>
+   <Line>quiet quires q squash queue$ quip queued quote squish quotas</Line>
+   <Line>quoth$ quasar queer quires squids quarts sequin quite</Line>
+   <Line>quoted quad quanta$ aquae quote quota $quaff quid</Line>
+   <Line>qua squaw queer quit quotes quoted quips queen quasi</Line>
+   <Line>$unique q quota quid squids quoted equip quest aqua</Line>
+   <Line>quaffs quiets quart equips$ $quota quoit quanta quip</Line>
+   <Line>quires quid aquas queues sequin$ $quanta quest quire</Line>
+   <Line>quash squats quips bisque quad quotas $quips $quasi quoits</Line>
+   <Line>quest$ quits bisque queue$ q piques queued$ queued quoth</Line>
+   <Line>$quid piques squash $quotas squad quash$ quite quanta</Line>
+   <Line>quoit q quarts quads $quits sequin pique quoted queued</Line>
+   <Line>piques opaque squabs sequin quart quash quids quit squats</Line>
+   <Line>aquae squad quip queue$ quash squat quash unique squids</Line>
+   <Line>quit toque aquas quanta queen torque squats piques queues</Line>
+   <Line>squire $quart squad squats queue pique quip quited quoits</Line>
+   <Line>square quires torque aquas quote quarto quash piques</Line>
+   <Line>piques squat squat quotas quarto queen equips squats</Line>
+   <Line>quote squish quire quasi squat quaff sequin qua</Line>
+   <Line>$squad quash$ quip quash quits queers quasi qua quasar</Line>
+   <Line>toque quest queue queued quoth quip quad $squabs quash</Line>
+   <Line>queers quoit equips equips quits quasar queued quasi</Line>
+   <Line>queue quited squash quire squash piques quest quasar</Line>
+   <Line>quanta quoted sequin qua queens quoits queer squish equips</Line>
+   <Line>quoits squats quoits sequin quoth quoits opaque equip</Line>
+   <Line>quartet opaqued equator squares$ quieter aquifer equip</Line>
+   <Line>$squaw squires quaint quid quires $opaqued quites queerer</Line>
+   <Line>squaws torque quintet quitter quart squabs brusque squints</Line>
+   <Line>quit piquant$ quests opaques squash $quoth quit require</Line>
+   <Line>request $quaffs quaint quasars $queues opaquer quietus</Line>
+   <Line>quip quotes squish squids piquant enquire parquet brusque</Line>
+   <Line>aquae queened queerer squirt aquae equip squared qua</Line>
+   <Line>quit quartet$ quires queered unquote queered $quartet quashed</Line>
+   <Line>squash squads quaffs squared$ uniquer quotas piqued quipped</Line>
+   <Line>toques queries esquire $squirts unique quashed quoited</Line>
+   <Line>q $equates squire quit squared esquire brusque squired</Line>
+   <Line>piquant quanta quashes quaffed quit unique squabs quarto</Line>
+   <Line>quaint quad quoited$ quaff squint quarto uniquer queues</Line>
+   <Line>quoits $quasi $quasars equates$ equator inquire quiet</Line>
+   <Line>squaw brusque squares $piqued quaff unquote equips</Line>
+   <Line>squints queer torqued$ queued $request quartet aquas</Line>
+   <Line>queer aqueous $quire esquire quasi squish square quashed</Line>
+   <Line>squint toque equips quests antique bequest $torques quited</Line>
+   <Line>quite q aquaria squid $queened quaff queer queerer quipped</Line>
+   <Line>quoits quart quads squaws quites q equated quartet unquote</Line>
+   <Line>quashes sequoia squire bisque sequin squats quids quoits</Line>
+   <Line>quash quires quotes quarto enquire sequins quietus</Line>
+   <Line>quartet$ squash bisque torqued banquet torqued queered</Line>
+   <Line>pique queened $squares uniquer $quartos quiets queen</Line>
+   <Line>quotes quids sequin queerer sequins queened squints squaws</Line>
+  </Level>
+  <Level>
+   <NewCharacters>gy</NewCharacters>
+   <Line>bring grates poetry prissy $pasty rings gongs gaffs</Line>
+   <Line>goiter befog grouts giddy jugs rings pegged speedy graph</Line>
+   <Line>grist penny gangs gun funny jawing afghan bung tining</Line>
+   <Line>way tryst typed berg usage purges astray rags rouge</Line>
+   <Line>testy gaffs pining frays dating $grayer wagons grey</Line>
+   <Line>tangy gushed dye fudge day gaffs toting rungs gored</Line>
+   <Line>goof snugs dyers yeps wowing $wry rung fatty jag hydra</Line>
+   <Line>whey$ sherry$ yipped pages yuppy tyroes jiffy negs</Line>
+   <Line>tiding yeasty sissy $fags tatty singed$ yawing$ ego</Line>
+   <Line>iffy$ thug begins finny ridges egret gas hubby natty grog</Line>
+   <Line>$says wiry usury frays gybing bury dinghy griped piggy</Line>
+   <Line>hog dotty budgie during testy $yeti $negate feting wryest</Line>
+   <Line>hunger dogs$ garb rouges types $hays raspy foyer wager</Line>
+   <Line>spigot toga teensy grate bongo goads baggie bonny truing</Line>
+   <Line>spongy bug digest hinge debug preys agenda unsay prys</Line>
+   <Line>nagged pity gout iring gored nappy grate gobbed urge</Line>
+   <Line>gouged pray bugs shrugs song retry grass fogged fudged</Line>
+   <Line>pay snag wrying gooier gobs ginned agenda$ syphon sundry</Line>
+   <Line>gray bays saga$ groans hoping wiring$ thigh$ danger twenty</Line>
+   <Line>yaws dingo ratify gene hinge bigot drugs gaudy argosy</Line>
+   <Line>gibber gents spays groan $tugged eggnog grab boney</Line>
+   <Line>jagged anyway bag brays gash hardy apogee yips parody</Line>
+   <Line>girted tyro busboy hoagie fusty doing hinge pretty$ dopey</Line>
+   <Line>dragon twang$ ashing taught $arroyo $drags hinges greets</Line>
+   <Line>gaging bunny gibing usages $sentry grin augers berry</Line>
+   <Line>thrifty soughs penning graping bigwig yeses nigger</Line>
+   <Line>rosy$ grainy$ panty dooring justify preys bobby gorge</Line>
+   <Line>soapy$ fortify babysit rouging queuing giants showery</Line>
+   <Line>foyer grunge aughts jigsaws songs hefting fanny</Line>
+   <Line>$began retyped granary$ burring noways barring degree</Line>
+   <Line>hussy $tinging hays ridged rough eggnog $gorging eery</Line>
+   <Line>gnawed using youths rowdy dyers safety squashy egghead</Line>
+   <Line>upstage $ringers ganged goading derby g$ fingers urge</Line>
+   <Line>tossing rigors dandy rarity pug egrets bossing genre</Line>
+   <Line>thereby praying $organ spy dragons $hiring enjoyed roughs</Line>
+   <Line>dyer forgets gentian hoping hyena $hag peppy raging gateway</Line>
+   <Line>posing got $babysit prayer sagger $signer anyone roaring</Line>
+   <Line>easy tangent papping rending sangs boogies ranger guess</Line>
+   <Line>$boneyer $injury putty finding rapping$ spy gibbets grubby</Line>
+   <Line>baaing spray fading showy grabbed body page ague highway</Line>
+   <Line>snags$ wedge $justify $bodega $poising unitary gird</Line>
+   <Line>haggard bandage grapes atrophy wight$ fidget faraway</Line>
+   <Line>pithy wearing burgers$ sung $bodegas bung $hosing graph</Line>
+   <Line>$gibes signers history goutier napping snug taffy wayward</Line>
+   <Line>organs housing newsy ignores nanny $frigate sages gaunt</Line>
+   <Line>figures finger yuppy neigh yaw iguana entropy gas</Line>
+   <Line>tweedy $tanning gabby$ gaffed$ sprig inquiry $noshing brassy</Line>
+   <Line>sappy$ anyone grassy gong roger euphony earwig brays</Line>
+   <Line>storeys dog preying argon gnashes frigid gasped nabbing</Line>
+   <Line>gushes arraign doggy winged adagios hanger deeding airway</Line>
+  </Level>
+  <Level>
+   <NewCharacters>cl</NewCharacters>
+   <Line>llanos coals elders stable dipole object wince churls</Line>
+   <Line>relics caging plains shall grill slay$ scurfy lashes</Line>
+   <Line>festal rancid$ frugal glitch scene isles pool puller</Line>
+   <Line>hubcap $chest snail indict stolid bract$ albeit tocsin</Line>
+   <Line>stills lathe walled wall whole cohere jalopy crusty</Line>
+   <Line>bangle$ $lefty itches itchy bulges clone pueblo silica</Line>
+   <Line>fellow $pals guild capers sadly $wiling pillar wield</Line>
+   <Line>ocher billed$ ranch jocose palsy prance insole$ castes</Line>
+   <Line>holy chug godly $copsed laced owls bloc oiled walled bulgy</Line>
+   <Line>canned loan $dearly botch$ $juncos leaf culls spools sloop</Line>
+   <Line>oiling hurler gilts conned curer$ self cabins pieced</Line>
+   <Line>carded cilia $chairs sauce$ caster shale scorch$ bluing</Line>
+   <Line>sliced cohere trawl fecund$ enroll hale unload chefs</Line>
+   <Line>lades sisal caring couch annual lids lousy whiled lawful</Line>
+   <Line>apples$ sect gallon ably slower lusts $elides lust bloat</Line>
+   <Line>laps$ chars jungle old fellow$ nobler uric broach thrall</Line>
+   <Line>clawed tallow cornea last balls clipt lulled bitchy</Line>
+   <Line>coyer$ scabs weals oral $lopes nodule touch locust</Line>
+   <Line>torch $rubric pecans afoul rubles colder $ritual cogent</Line>
+   <Line>hence jailed crude nulls acne crept $canyon icings clingy</Line>
+   <Line>$uric cinder logged frail parole recap $annual bubble</Line>
+   <Line>plod$ ailed list sepal ferric hails shalt cashed treble</Line>
+   <Line>sullen goals helot cosies lei whirls cable belly$ sisal</Line>
+   <Line>libs$ chip swills outcry winch$ $coeds welter haggle</Line>
+   <Line>paling shrill $nulls $cane soils $titled collie topics</Line>
+   <Line>thinly planets crudest swells gentle clotted plural screen</Line>
+   <Line>redcaps cues $flogged truly crony $sables sharply babbler</Line>
+   <Line>pearled blued$ descant $blowout $alleged firstly juicier</Line>
+   <Line>lassies silting gulps adjunct etched cleft$ deli</Line>
+   <Line>$uncased fools putsch chided ranches steels causing</Line>
+   <Line>silly $cerise lapsed aquatic $foreleg $jalopy splicer</Line>
+   <Line>bestial corny eyelash surly edibles$ deuced cornrow</Line>
+   <Line>dyadic$ hectic ideally sliced $corsair slier $pooch joggles</Line>
+   <Line>winced congeal$ $defaces douches $cupfuls thralls slitter</Line>
+   <Line>appeals chopper cocci leotard pulpier loudly decrees</Line>
+   <Line>halted oral dunces slap coconut caloric nailed basalt</Line>
+   <Line>since$ style fluids wryly droll calyces bilges unclean</Line>
+   <Line>race pricier plinths$ sloop bridal told crossly regalia</Line>
+   <Line>locally$ slothed clubbed$ narcing $gracing rifling jostle</Line>
+   <Line>corners racist lira $twofold secedes$ gloried sulfide</Line>
+   <Line>gurgled slice laying large cistern quibble capstan falling</Line>
+   <Line>filet carpus$ billed$ drill poplar splice byline alibi</Line>
+   <Line>blowers flee old braille fennel scuba$ achy sullen section</Line>
+   <Line>pueblos girl elates bolder fices doublet foaled potful</Line>
+   <Line>stall petiole erect hayloft curses coup planed plateau</Line>
+   <Line>flubbed polecat lifting lends cutters century coached</Line>
+   <Line>logical plated craft copping charts lurches dulled</Line>
+   <Line>soggily coaster canto lobbed ricotta easel $blotted cohere</Line>
+   <Line>analogy elects bundled tolled titled rubbles cosies</Line>
+   <Line>pulping$ plurals pierces $watched specie$ dipole curdled</Line>
+  </Level>
+  <Level>
+   <NewCharacters>vk</NewCharacters>
+   <Line>shocks bravo cluck $revs thrive loves voted bulked</Line>
+   <Line>levies knob$ clocks $dicky pelves bilked racket works</Line>
+   <Line>ketch vacua revved creaks dike relive oink naives$ cooky</Line>
+   <Line>covers $naves $grove $savior elks skins pivot visa</Line>
+   <Line>curves hulk sevens curvy spank$ levels$ leaks bakery</Line>
+   <Line>violet$ rooks vast$ kowtow tweak pecks solved kinky</Line>
+   <Line>selves ticket kingly$ ask leaven jokes cavil shrike</Line>
+   <Line>vicar creek scurvy cock week raving spokes louver asking</Line>
+   <Line>verb yuks vents $evokes oinked evil jerked becks sky</Line>
+   <Line>frock conked $bunk vocals vase kiting$ fives fink lava</Line>
+   <Line>$levers hived$ fever $plank vine wolves wreak avast evils</Line>
+   <Line>davit violas vies prick flaked lived verse wovens spike</Line>
+   <Line>barks vented $valve devil avoids never chucks kills</Line>
+   <Line>creaky khaki vilely veal kill$ ivory vises flukes speak</Line>
+   <Line>perk vibe$ known retook$ icky kooks biking sake lucks</Line>
+   <Line>truck tasks picked drove suck$ $hooks $drakes shake</Line>
+   <Line>$balky coves ticket avoid$ gingko savers packer backs</Line>
+   <Line>packs devise yanks visors thick ovary skirt jovial teak</Line>
+   <Line>$seeks $vista elves skein $revert kilned $very khans</Line>
+   <Line>prove auks hanks vised$ have knell overt jocked staved</Line>
+   <Line>evenly hikes $geeks chucks park weaves vowel wicks</Line>
+   <Line>slinky weevil okras ricked ricks lurks sylvan tikes</Line>
+   <Line>cocks ranked weeks pocks poking skirts knave vast</Line>
+   <Line>save sneaks stakes shuck joking yokel speck hikers</Line>
+   <Line>gravy stove $rooked savant$ stalks slave sake paved</Line>
+   <Line>waked vaccine $brave kopecks shaken suckle$ betake$ pinked</Line>
+   <Line>skeet hokey views flake setback $parked vivaing okra</Line>
+   <Line>kids olives darken $tinkle inkiest resolve novelty servers</Line>
+   <Line>yucking snaking vulture locket shekels$ jackal burdock</Line>
+   <Line>rocking upchuck pinkies convene finks pocked skiers</Line>
+   <Line>kinking laking $veneers likest$ knot nonskid skycaps voice</Line>
+   <Line>bethink skaters above bravely ovaries twelve viper rusk</Line>
+   <Line>unnerve risky $advise shark vanish $streak $rivalry socks</Line>
+   <Line>vitriol vainest wicked vanilla rooked hookier overeat</Line>
+   <Line>pinkeye harkens knotted catkins vistaed buckets private</Line>
+   <Line>$nicking naval thicken knitter vetoing deck takers</Line>
+   <Line>bespeak rove socks allover hocking revels kickoff jerked</Line>
+   <Line>dashiki kindred lovable kaput unpacks avian$ saving</Line>
+   <Line>gawk$ wavered solve kinky beckon kneel caviare$ black</Line>
+   <Line>every visual cleaved vile bunked vicar unpaved starves</Line>
+   <Line>$vends beckon voyages $vised poke veranda caves baker</Line>
+   <Line>shrove picky shiver backed kindest delves hunkers hick</Line>
+   <Line>whelked skin rive heckler$ stokes skew evilest kin</Line>
+   <Line>dicker lackeys bonkers pranks civics deprive brook</Line>
+   <Line>faker askew$ pave $skewing $croaked hickey swivels skited</Line>
+   <Line>shirk specked $twinkle divides cassava cookery votive</Line>
+   <Line>virago striker nakeder trikes picking soak prick jockeys</Line>
+   <Line>grovel laked stickup whacked perk$ creeks solvers shakes</Line>
+   <Line>bookie kilning hikers vouched vices hiving $shove convict</Line>
+   <Line>bullock riveted rival salver knoll ivory villas$ packed</Line>
+  </Level>
+  <Level>
+   <NewCharacters>:'</NewCharacters>
+   <Line>fifth:: glints beach jibbed spunk likens nibs sloop bases</Line>
+   <Line>funnel denude ester bode:: state knotty' forays$ gulps</Line>
+   <Line>rho slicer tells fluid pluck skiers knits 'dinky good</Line>
+   <Line>swan:: news count dangle strewn dogy deres veers shinny</Line>
+   <Line>thaw gasp$ stript prys cranes kink irk$ ties rosin' slung</Line>
+   <Line>cursed absorb stoops gropes:: dewy$ golly level quiche</Line>
+   <Line>techs heal sued ::bland ickier:: ::foal ::butch shaky</Line>
+   <Line>leafy slight $ewer vein:: buddy$ peat licks finite' rants</Line>
+   <Line>uncut relied peas brisks seed $wired bur wino waif' surrey</Line>
+   <Line>head slough hoods coyly' khans 'lifers enrols $dins sacred</Line>
+   <Line>veneer 'cease drake whey doped cooing $dulls 'j toady</Line>
+   <Line>queens torts$ noose tabs unlike:: senses scorns shed</Line>
+   <Line>prof bevels$ scouts beware' edged nils:: irate golfed</Line>
+   <Line>$cruet $jitney rawer' cock tiled glide agates:: bereft</Line>
+   <Line>drop joins weds eve dearth caring storey lipids rags errs</Line>
+   <Line>tinny braid' juts ::novae drone hold heros brings:: quilt</Line>
+   <Line>grubs budged:: $quark pagoda ::dacha jogger 'stoney felon</Line>
+   <Line>hose belay abbot cob$ links jounce $chitin ::grape tool</Line>
+   <Line>bursts pink craned aunt weaved spurt aunts cadges bias</Line>
+   <Line>tots sheiks elopes bane paused loan stuns lordly refuse</Line>
+   <Line>weave$ knead leak loud licks skin ::scubas delude drafty</Line>
+   <Line>unique reefed encore dollop bight buggy $saline ward</Line>
+   <Line>pewee$ ::or pigeon 'under bravos lion tyke verses doses</Line>
+   <Line>tuft rheas dotted stuffy attic hiked scales vial shogun</Line>
+   <Line>hereby bravo ::weaved tolled coped open $sepals chafe</Line>
+   <Line>pitcher prattle$ skiffs aspen puniest$ shying bays</Line>
+   <Line>natty payee sober:: guesser dating guise dunno logging</Line>
+   <Line>redone rib' nailing realty shall$ spastic gaily flan</Line>
+   <Line>bladed' ::hairdos $sidebar rotting pannier cored cosigns</Line>
+   <Line>shock dowdily fetus pals warhead plaids resign bourbon</Line>
+   <Line>'skiffed $behest swayed shuck hairdo wet$ $wolf daisies</Line>
+   <Line>garner $jingled galoshe' coaches clayey paged revived</Line>
+   <Line>weakest$ prongs:: 'troupes valid bitters central appalls</Line>
+   <Line>hackle cosign corners:: occlude glad outpost envies</Line>
+   <Line>fainest:: re floats pawned plenty way ::hygiene funkier</Line>
+   <Line>vetting baleen warhead flasher sin chisel' $kicky prop</Line>
+   <Line>::siding popping doing alter use capture sevens:: dune</Line>
+   <Line>erotica sheep:: abler finales 'oboists tars dealers curates</Line>
+   <Line>$gulped astride ::obtuser thawing:: clasps' saucers hiss</Line>
+   <Line>engine:: $chucks filled fearful sises wallops quote</Line>
+   <Line>urinals$ stubble chow' $inheres jabbers plough laurels</Line>
+   <Line>'vestige pave raven$ pelves $whelps divisor update raced</Line>
+   <Line>cope pettily sortie hatters rereads velor putty fresco</Line>
+   <Line>finery:: grieves weaver cancels $outdoes earplug posit</Line>
+   <Line>censors wares sins ::dairy inherit group 'fasted barter</Line>
+   <Line>ravages scuff bangles skewed' albinos ajar ::rubbish gangway</Line>
+   <Line>ticked$ insects jawbone squalor schleps cleans bulwark</Line>
+   <Line>laciest bounded fryers bunged liaises collars$ wreak</Line>
+   <Line>nebulas furors:: foots roweled peahens unsnap scowl</Line>
+   <Line>lends dungeon keel reuse tritely vessel scythed godsend</Line>
+  </Level>
+  <Level>
+   <NewCharacters>m,</NewCharacters>
+   <Line>demure$ ramrod hansom salami' 'steams ::mishap gambit</Line>
+   <Line>haymow ::limp ::harm shame, homeys smut mums mesh mushed</Line>
+   <Line>mooch amids 'rams muscle macho, omit motive menus lumped</Line>
+   <Line>muted$ manage$ possum minute 'gloomy clomp ohms' brooms</Line>
+   <Line>jammed, ::tempo seaman 'mane carom myself noncom samba</Line>
+   <Line>moods ,theism macros dump $labium moated farmed$ mynah</Line>
+   <Line>mender 'primed mum mucked $map ism atoms, $hominy rimes</Line>
+   <Line>,skim march ::mutes madder $calms clime mutt dream ammo</Line>
+   <Line>esteem primps limbo$ ::impala moped, myrtle mire, limns</Line>
+   <Line>,magpie reamed$ moose 'atomic mounts pomade woman movers</Line>
+   <Line>maraca carom mantis clumps limo, aroma dame mars, formal</Line>
+   <Line>mime entomb mumps smugs taming:: madame$ impel roman</Line>
+   <Line>filmy $firm mask menage monks numbed nymph items amply</Line>
+   <Line>'him ,merit mango, madame $amused demure damson might</Line>
+   <Line>hamper, timed:: seemed, $smith morgue shaman ::prompt dorms</Line>
+   <Line>mammas timbre maniac number laming mangle mailer farms</Line>
+   <Line>milieu crimps moose barman metro$ mimic mallet datum</Line>
+   <Line>um blames lamas mangle motley hems' hump ,perm media</Line>
+   <Line>alarm 'primes oakum some' mad impend summer mishap llamas</Line>
+   <Line>summed emir' homily morons make:: femurs 'crumbs hums</Line>
+   <Line>salaam masses magic stymy enmity, mute demons rhymes cums</Line>
+   <Line>warmly deem $embody humps made, mike morbid plume humors</Line>
+   <Line>truism limbo mucous$ $frump climb mentor ,them airman gum</Line>
+   <Line>impend males:: swims mange:: jamb' marine mussel limos</Line>
+   <Line>minty stump, inseam maybes slump marina lamer hammed meow</Line>
+   <Line>gamiest' revamp crimed:: admires medians warming immured</Line>
+   <Line>thumps males chomp moodier, bumble 'unkempt camels chimp</Line>
+   <Line>scam blooms remands sperms serums shampoo' mahjong' comer</Line>
+   <Line>lissom melange, muss seminar mama cinemas sawmill strum</Line>
+   <Line>'romance mats surname marlin marshy mustang ,vamping mascot</Line>
+   <Line>melanin dormer ::primate milieu pommels hammed amp</Line>
+   <Line>impairs emulate:: oatmeal logjams mamas decamp romance</Line>
+   <Line>stream grimace small rhymed 'ominous amid mires podium</Line>
+   <Line>eardrum $lissom muscle medium midyear, $alums moseyed' melted</Line>
+   <Line>plum minaret mutated hymens' mating, rummest stumped</Line>
+   <Line>limping jams$ matures albumin symbol formats romp</Line>
+   <Line>gym ambled $mentors defamed macadam muumuus pumps kimonos</Line>
+   <Line>emulate mulch mostly plowman roam camber mating famed</Line>
+   <Line>comfier minnow' worm milch:: impede' $mussed emails gallium</Line>
+   <Line>may amiably moves ,omegas mittens dustman bombs smashes</Line>
+   <Line>impute oakum' made$ demotes imputes demesne minor mynah</Line>
+   <Line>mists 'mantled 'motored hemlock media rooming ::emeries smudgy</Line>
+   <Line>program$ ,phoneme gingham 'tempest puma amassed:: hymnals</Line>
+   <Line>mundane emirate milksop numeric amoebic temping trumps</Line>
+   <Line>magics dumpier$ mason solemn matins$ items grandma lumbar</Line>
+   <Line>'motels ,plum margin domes 'loom stems ,plumper moors</Line>
+   <Line>smote ,mammal gremlin, mocked ,shampoo mended poems roamers</Line>
+   <Line>,mints jamb wimps mimosa mire moron$ ::bunkum mirror lemur</Line>
+   <Line>sarcoma$ amiss dolmen malls' $magpies thimble muter</Line>
+   <Line>autumns muddies mind umpires 'storms commend pump</Line>
+  </Level>
+  <Level>
+   <NewCharacters>x.</NewCharacters>
+   <Line>fox taxied fluxes expos pixie axial sixth expand, axing</Line>
+   <Line>oxbow oxide sexual expert laxity proxy .exist maxims exult</Line>
+   <Line>oxen apexes lynxes pixie proxy vexes exhume expert exec</Line>
+   <Line>.xylem infix. boxing pyxing pixie fixer axing exits</Line>
+   <Line>.lox waxier' prefix fixer lexica onyx$ cowpox waxed:: pixel</Line>
+   <Line>$extra extend foxed dioxin sexes toxic pickax extol cox</Line>
+   <Line>execs pyxes. pixie pickax maxim maxim:: maxes faxed axle</Line>
+   <Line>taxes boxer expo' jinxed $sexier exhume sex detox expire</Line>
+   <Line>execs, exec affix maxed$ lynx affix oxides $pixy faxing</Line>
+   <Line>::boxed pox $exalts laxity ::mix ::vortex oxes jinx</Line>
+   <Line>box$ telex$ loxes except' waxen maxims 'hoax oxide execs</Line>
+   <Line>poxes 'waxier affix, exiles oxes hexed faxing sexes:: fixity</Line>
+   <Line>fix$ sexing$ exalt affix sixth:: ax waxed extent sexed</Line>
+   <Line>sexist waxy. oxide. poxes mixt mixed ,tax mixt' fixers</Line>
+   <Line>'sixth sexes lynxes exotic affix nix expand:: ::mixer flux</Line>
+   <Line>excel:: coax .mixt boxers ::laxes saxes $laxes cowpox wax</Line>
+   <Line>nix lexica annex exudes ::waxen waxy extol coaxes$ loxing</Line>
+   <Line>lox foxed pixy' fluxes$ vertex$ ex fixer ibex ,annexe fixes</Line>
+   <Line>exist wax$ exults exudes hexed maxes$ waxes$ axiom, tux</Line>
+   <Line>codex cowpox:: exhume flexes pixy ::maxims waxy extend</Line>
+   <Line>buxom boxing oxford nixes .nixes nix beaux extols' pickax</Line>
+   <Line>'influx minx nixed sexist hexes crux foxing oxbows exalt</Line>
+   <Line>proxy exec ::axial oxides vixen annexe mixes xenon hexes</Line>
+   <Line>lax, poxes, coccyx exempt sixty' .codex axes texts waxen</Line>
+   <Line>pyxes' fox, borax:: ,six flaxen$ saxes:: expire exes</Line>
+   <Line>tuxedos, ::sphinx .hoaxed extant pixies elixirs exacter</Line>
+   <Line>six:: mixers$ lynx pickax toxic, lox' exit wax exhaled nexus</Line>
+   <Line>,expose exude oxfords 'epoxied tuxes relaxed nixes</Line>
+   <Line>excited$ expert relaxes. axles exalted waxwork excise</Line>
+   <Line>sexes sexed expense ibexes:: excised laxness flax</Line>
+   <Line>'exhume exactly fixate nixed expels flux oxfords fox</Line>
+   <Line>::faxes expo nix extras, exerts, tux exhume, nexus mixers</Line>
+   <Line>earwax, maxim. ::sexual excrete poxed ::loxed $laxly excel</Line>
+   <Line>flex, export affix' overtax ,excess anxiety:: latex flaxen</Line>
+   <Line>experts, hoaxed ::waxes ::fixings excerpt:: $oxen extrude</Line>
+   <Line>maxims$ pyxing .overtax pillbox .borax exotic exhale, exist</Line>
+   <Line>anxious$ explore' expire explain$ exalt oxygen' exudes</Line>
+   <Line>exist 'axons 'soapbox gearbox dioxins$ bauxite extends</Line>
+   <Line>oxygen 'faxes exult exams 'expiry calyxes exude codex</Line>
+   <Line>sexist. exec ::axises detox axing. $oxygen hoaxer exhale</Line>
+   <Line>jinxing sexier vertex 'taxicab fixing sexpots' pharynx</Line>
+   <Line>export taxies .loxed influx axle adieux texture exhort</Line>
+   <Line>expire exulted excites' toxic$ affixed exact$ excised</Line>
+   <Line>epoxied. epoxy 'sexing telexes' flummox:: affix laxer</Line>
+   <Line>buxomer$ textual elixirs waxing lox ,extols boxwood exults</Line>
+   <Line>explain jinxing earwax, ex pickaxe$ exports ,axing taxied</Line>
+   <Line>buxomer lynxes ex axing exult indexes hexes exhume excels</Line>
+   <Line>borax ::pretext affix .execs 'maxes indexes surtax sexton</Line>
+   <Line>expand sexists maxed wax' flummox xenon explain sexiest</Line>
+   <Line>foxier borax oxen, oxes, excels. expiate foxiest:: coxcomb</Line>
+  </Level>
+  <Level>
+   <NewCharacters>z/</NewCharacters>
+   <Line>kibitz /cozy gauze zipped /zebra freeze hazels azalea</Line>
+   <Line>,boozes fezzes 'dazes razor muzzle/ dozed dazed woozy</Line>
+   <Line>klutzy cozily gazed blaze oozed zebus' gizmo/ fezes fizzy</Line>
+   <Line>furze $gazes gaze, bazaar mazes amaze zests zipper zoning</Line>
+   <Line>raze/ woozy amaze snooze fuzz, dozed zooms:: zinc ooze</Line>
+   <Line>,sizzle plazas enzyme' azures frizz' gazebo zipper zinc</Line>
+   <Line>dozed 'zebras klutzy ooze glaze fezzes sized fuzing boozes</Line>
+   <Line>zonal gazed gauzy$ gazes. iodize ablaze glaze crazed</Line>
+   <Line>fizz zing amazes ionize$ woozy, quiz$ zenith graze gauzy</Line>
+   <Line>seize zed hazel fizzed' sizes. .zygote bazaar tzars hazy</Line>
+   <Line>sizer iodize' /fuzing fuzz woozy ::zenith puzzle hazel</Line>
+   <Line>::eczema lazed assize ooze$ $lazied futz zest lazier zincs</Line>
+   <Line>boozy graze faze zaps ::zinged glitz oozes .zapped zonal</Line>
+   <Line>bozos ::zebra adzes kazoos, 'zenith pizza adz baize bozos</Line>
+   <Line>zip zebus zeroes blitz/ eczema mazes .buzz blitz woozy</Line>
+   <Line>zippy ,doze gazing/ seized seizes blitz gazers crazes</Line>
+   <Line>zaps unzips. 'hazels lazes zebra razzes zing z' wheeze</Line>
+   <Line>crazed boozes gauzy /sized oozes hazily zipper cozily</Line>
+   <Line>glitz ::breezy blazer, doze buzzer. /klutz frizz:: raze</Line>
+   <Line>,zinnia frizz, vizor hazing. /booze vizor razzed gazebo</Line>
+   <Line>zephyr hazy/ friz maizes gazer blazer' breezy kazoo' zinger</Line>
+   <Line>fazed 'quartz zap:: whiz/ cozies' zinced, pizza zephyr</Line>
+   <Line>doze. hazy ::sleazy ,kibitz /blazer ,boozy zanier$ oozing</Line>
+   <Line>fizzy$ matzo daze gazebo/ amazon amazed. breezy matzo</Line>
+   <Line>zinger zoned topaz lazed woozy 'zoned furze/ ersatz zebu</Line>
+   <Line>seizure graze' woozier zips, zenith/ dozing razzed craze</Line>
+   <Line>::brazens dizzier boozed unzip$ blowzy:: scherzo enzyme</Line>
+   <Line>zodiac buzzard zipper' stanza buzzers $iodized daze</Line>
+   <Line>razzing whizzed enzyme sized gazed zeros piazzas:: zap</Line>
+   <Line>/idolize ::glaze dizzier. nozzle futzing zincing seizing</Line>
+   <Line>kibbutz$ zed unzip zodiacs grazing .zealous scuzzy$ blintze</Line>
+   <Line>'gazebo zippier vizier squeeze ,z bronzes $blowzy oozes</Line>
+   <Line>gazebos .zestful zanier:: crazes klutzes/ zincs faze</Line>
+   <Line>plazas sizzle ooze:: blazing' eczema furze topazes gauzier</Line>
+   <Line>sleaze ::frieze tizzies ,azure whiz hazily bonanza gazebo</Line>
+   <Line>hazily razzing oxidize snoozed /fuzz zed cozies crazily</Line>
+   <Line>freezer, stanza seltzer. fez 'fuzes stylize. gazed zing</Line>
+   <Line>.razz .scherzi .zincs vizier zoned oozes. jazzy hazel</Line>
+   <Line>stanza:: dazes zombies azimuth topazes$ .ionize gazer</Line>
+   <Line>zanied woozy czar$ realize zigzags gizzard zodiacs sneeze</Line>
+   <Line>oozes $czars zoom zits cadenza amazon jazzing guzzles</Line>
+   <Line>pizza woozier zincked blitz ::frizz oozes dazzled crazed</Line>
+   <Line>zings zephyrs vizors hertzes' ,fuzes sized$ ozone klutzy</Line>
+   <Line>zings kazoos glazing .raze 'dizzily blazons:: zinnia fizzy</Line>
+   <Line>baize' wizened sneezes frizz agonize cozier ::jazz dazes</Line>
+   <Line>laziest/ dazed. rhizome /amazing prize zero/ fez. mizzens</Line>
+   <Line>'spritz fuzzing friezes .blazer fizzle ::zebus unzip</Line>
+   <Line>capsize blitz ,dazing blaze' ,muezzin woozier fazed</Line>
+   <Line>daze gazelle crazier, zips zincked puzzler/ abuzz fizzy</Line>
+   <Line>snazzy gazing 'zither fizzed. pizzas enzymes sleaze fuzzily</Line>
+  </Level>
+  <Level>
+   <NewCharacters>{}()[]&lt;>\#</NewCharacters>
+   <Line>true} garner[ bored[ gills realty #spoken kebab tiffs                                                                                                </Line>
+   <Line>dues mere/ zest salt abated dourly&lt; revs$ musics buckle</Line>
+   <Line>key{ denial peanut\ gage snivel speaks ibexes \ravish expel</Line>
+   <Line>rebut fazes lapse\ belt, /rum wicket /sluing micra saloon</Line>
+   <Line>outers aunts runs[ cloths' duel armed comply wobbly snacks</Line>
+   <Line>chives elude belief burst reload his rupee colic hub</Line>
+   <Line>mammal. duded dares&lt; fends hob rover&lt; lades:: kneel bangs</Line>
+   <Line>cogent flats retina{ roughs }dose prided iron rimmed/ brawl</Line>
+   <Line>lira pee. frat riffs #holes guitar unrest .merer drone</Line>
+   <Line>marrow \chafes held loin seem \steals tuxes$ tibiae, omens</Line>
+   <Line>bests tarps[ duped daddy cobras\ nigh:: diver melts sane</Line>
+   <Line>pasha ]tides comma aural\ frats cloud terry proper assert</Line>
+   <Line>affair{ quacks emote #insult fail #buckle period sconce</Line>
+   <Line>grown gowns} rely laud psychs# dye &lt;enrich swank mole</Line>
+   <Line>reds grout >winch &lt;moots $mare whinny, dines etches wool</Line>
+   <Line>piety&lt; roved stokes driers ,haul chewy[ sew kitten. rape</Line>
+   <Line>kith avast pounce' >pares [kebabs (swarms louse sensor</Line>
+   <Line>ow[ muffin polish> .trolls eerily loosen rook) salver lyric</Line>
+   <Line>>meal iguana filial roach curses[ nukes wafers augurs{ kilt</Line>
+   <Line>pelvis$ awes. spur cherry. curst/ pomade welted$ raking</Line>
+   <Line>nail input bridal{ .fungi \amoeba turtle{ (acting lifers</Line>
+   <Line>#cages citing dally dries &lt;wed babier sorry} plug lite</Line>
+   <Line>begone:: nuking \ejects handy valise turns wings[ oily</Line>
+   <Line>buy moped{ fling jihad uvulas hubby[ .genre opals ravel</Line>
+   <Line>scopes frisky primal proof ho .revert pars/ rye ::fined buns</Line>
+   <Line>[squeak gene&lt; germ >livened pegs burped newels rat</Line>
+   <Line>\laborer orgasms tomato unseens fame dawns {pokes serums</Line>
+   <Line>nuked} emetic\ #callers {gainsay bistro groping infers</Line>
+   <Line>(comic (tissues )dodges unit champ nephew worlds piety</Line>
+   <Line>blocs] flag reading )holder warrens inward ocher malling</Line>
+   <Line>anyway admired simple/ ::shoeing mustard quaff overly</Line>
+   <Line>bin# teemed, atoms} booster beaches henna }impaled gooses</Line>
+   <Line>/fest \tocsin harpy\ heaping implied \parted misread ulna</Line>
+   <Line>lactose deport \hook baling hosts} [nullify sulfur nuptial</Line>
+   <Line>jujubes ketchup shore stinger sons vaccine reorder nines</Line>
+   <Line>kettle ::sottish harem [grunge kelp' reading{ brewers basins</Line>
+   <Line>\moguls feign beyonds strings {toots }stuff cloches turfed</Line>
+   <Line>snort. lessor$ goblets\ our dusk rode \patters mayo{ menses</Line>
+   <Line>yahoo zooming. pured looting foghorn 'hods #hiatus hideous</Line>
+   <Line>engross {oozing rhyming sinews \several tannin, harken</Line>
+   <Line>prating ::awake creaky chinks (cabs ]avidity abhor} manacle</Line>
+   <Line>fool [shadows thaws (pet hedges ]bedbug dowdier teethed</Line>
+   <Line>\sinuous plotted\ curving tartar mulches ear (scant deters</Line>
+   <Line>gummier #carting behests &lt;lunched tweaked entente( belay</Line>
+   <Line>scenes} (denials sidearm duel jived strafe} uplifts:: murks</Line>
+   <Line>iratest] epsilon \assuage {caucus #erect ,dappers worry</Line>
+   <Line>ordered equate\ /pestled thalami:: opposed[ carport mascot</Line>
+   <Line>kimono) wigwag} imagery 'lechery dancer curvier gizmos</Line>
+   <Line>angle start ovum) )zinger balky ramble .podium cartel# seal</Line>
+   <Line>rigor {laxity clang graces averred crests. wither nuance</Line>
+  </Level>
+  <Level>
+   <NewCharacters>1234567890</NewCharacters>
+   <Line>reset writer 'fears pumps >socked twines{ 9slurs admen</Line>
+   <Line>8fores lagers enjoin6 envied mows steel. bottom beefs</Line>
+   <Line>pegged noons motto cutlet 6sings hyped rasped meekly{ minis</Line>
+   <Line>sunlit glibly prowl slops5 deltas sauted[ rungs staled</Line>
+   <Line>\cop leer want mock&lt; laugh:: ::mighty guppy6 thrall sloe</Line>
+   <Line>juster brash8 menses budgie bingo serous balm pan> gob</Line>
+   <Line>[arks lawyer\ insect shriek toting kicked shrimp crags</Line>
+   <Line>nutria rimes &lt;u tang retch wished beets5 mauled cirrus</Line>
+   <Line>damps2 snuffs huhs deaden &lt;tarter sixths7 wont[ d</Line>
+   <Line>beaks oust. asked (spates grope shirr apply permit/ aways</Line>
+   <Line>singly fir duets hasp# genera )bib patios soaks$ binary</Line>
+   <Line>ascots causal6 #rivers snoots fondle 8cocoon \auras force</Line>
+   <Line>nigger bast 7punts encore \mayor exits gusto/ thesis8 abound</Line>
+   <Line>::scored grass/ alarms caning >gaging feasts4 oboist bold</Line>
+   <Line>1asking rove shin gooey sirred ts polkas5 limes snoop</Line>
+   <Line>mutual \toys cops middle /mettle 6brings budgie stork</Line>
+   <Line>swamis >kits abed psalm pall drug }inhere #menses pitch</Line>
+   <Line>morons8 6pit harks5 hyphen 3tropic mooter gals yon saga</Line>
+   <Line>unlace bucks&lt; smoked:: slope &lt;feels 4flung wary pads</Line>
+   <Line>swab photo) phials exes risky/ limply lock meshed joined</Line>
+   <Line>pi (dick ]deafer demoed 6aisled $makers dressy septa stag</Line>
+   <Line>chosen ,vote pudgy9 mat seeker ::lock pained thorn] almost</Line>
+   <Line>coyer3 pony filled /time speed{ newels pecan \commas plazas</Line>
+   <Line>[post drabs gotten6 #y desert pulley0 pleats 4lackey pots</Line>
+   <Line>loves ovals5 geode termly \peg .fronds loop ale sizes4 tiptoe</Line>
+   <Line>rundown sodomy across> knocked] eyelash. 'pickled devices</Line>
+   <Line>veriest lapped4 guavas 3tabby refuses barns attics crackup</Line>
+   <Line>flags movers pupa\ alibi salutes #knotty }valve dioxide</Line>
+   <Line>mete pledges pleaded ,foots wolves\ laws pricks0 furbish</Line>
+   <Line>looks\ judo jackals 6deeding deleted ,mailman stench treated</Line>
+   <Line>9oat rival:: ugh bebop. avocado accord denies relates raster</Line>
+   <Line>beast #glowers conical scorers &lt;sickles lakes tobacco loxes</Line>
+   <Line>'abusive peal kiosk ]fagged candy ::grimace }baring muled</Line>
+   <Line>)igloo slogs tape) shrubs 2armfuls cradled0 ,guitars jotting</Line>
+   <Line>sirloin{ ginseng3 losers1 9unwound mallow [pathos nimbler</Line>
+   <Line>wheat 3scepter freedom 5tease }clomps riffles. coring</Line>
+   <Line>7prodded crammed$ banning4 lunges typing #sumps stoking</Line>
+   <Line>ankle phonied wrung bucked 7heavy }stroke &lt;append intents</Line>
+   <Line>quarto borers scherzi&lt; ::maraud 'lodger quires opus</Line>
+   <Line>hurting> quartos[ cupolas pose barmaid7 erases{ mussed</Line>
+   <Line>graphed 4tenuous lesbian booty .punters ::lipread maced</Line>
+   <Line>curdle dullard' tying9 tramped viscid\ plainer flume</Line>
+   <Line>4dictums growers liker bobbin9 mealies budding&lt; swards</Line>
+   <Line>horror legible 9berthed exhort, rocks# 4hales reflex</Line>
+   <Line>whiled oars{ vaginas deaning( \asexual >diced jelly wapiti</Line>
+   <Line>\inseams imbed 0camphor 9hewers craned yards$ five&lt; sellers</Line>
+   <Line>9stately unpaved diners clasped sols:: sharks> obeyed</Line>
+   <Line>/suers 'deploy framer hymnals curlier 8plaque wetness3 bide</Line>
+   <Line>8capture witty myrtles whiskey cramps8 pruning1 yeah</Line>
+   <Line>jades lewd bomb alias:: .flux cruxes warthog3 8outrage grove</Line>
+  </Level>
+  <Level>
+   <NewCharacters>Everything</NewCharacters>
+   <Line>bloat Avery cliffs heir's5 whacks onset( }lusty shod</Line>
+   <Line>gorier oboes Lyra's lonely amok/ cs's[ Niobe @odors timid</Line>
+   <Line>matzo Tiber odium koalas body's 1evenly dotes. musing- Han</Line>
+   <Line>Walden% smites Easter- tango &lt;bus's seeded %tinkle savior</Line>
+   <Line>spies emery mutual5 Allan, _hides garble= muffle tackle</Line>
+   <Line>hasps 7Allie massed twang 3racism dress% Hymen Gall</Line>
+   <Line>York deuces ::Eu's Abe's0 Lie hare shunts dyer's half</Line>
+   <Line>shanty3 spicy Zelma entrap .poke /propel loathe| flail</Line>
+   <Line>snob- ant bike/ baton 1roamed ::nickel hazing [toked vs</Line>
+   <Line>Katie )Billie piling. duff lied6 bowel strews sleigh= Andean</Line>
+   <Line>outset root's -Olive 4smoke pool's, shrink Brant jailor</Line>
+   <Line>luaus 2clam 1vend truism befoul[ duct doted known Mouthe</Line>
+   <Line>chic_ %Roxy's @Gd autism&lt; Ladoga 8Willis slunk9 poorer</Line>
+   <Line>Lean] bone's( wroth- nobly' rumple cord's county shock</Line>
+   <Line>eves} =rim (spud's manors+ tramp 2Nieves \fained Josue</Line>
+   <Line>pave' 7sizing feints6 anode socket' 3ruler Aisha1 Yale</Line>
+   <Line>Left 4Tuscon lops= semen weed $Cody's humbly, larynx maizes</Line>
+   <Line>gooey Tagus spoof Nita mailed5 evils_ woo Nile's deigns</Line>
+   <Line>tumble- racers claw >doubt bowl's5 5Sepoy bulb's darn</Line>
+   <Line>lobes Sister+ Lee hawker7 gulag Henson Efren )Gloria grow</Line>
+   <Line>pose gopher. |twang vital. smash deeply blow6 ,Slavs Sung's</Line>
+   <Line>cilia |cons wives Baez 6cowed ragtag =Eula spars Prut's</Line>
+   <Line>sot. {ramps )madras remit $deploy tonal brews 3avians bleach</Line>
+   <Line>F's 9geode kin's perm mole coops Olen ,Gary's lo0 ticks</Line>
+   <Line>vial yolks riots yeti's7 &lt;Sm Gina8 ::world Klimt Subaru</Line>
+   <Line>tattoos burnout/ rid [pilots wingtip Ci. fascism whitest</Line>
+   <Line>wiretap combing rupee grottos8 razing9 Boston\ Nehru's</Line>
+   <Line>bellow propane jetsam fray's sped/ pans flyover reissue</Line>
+   <Line>cycle mutter 'broncos laud sphinx cabal's2 tardier Julies</Line>
+   <Line>sanders Lowe's_ Grimm Kitty pointer pawls ::dowries Huerta</Line>
+   <Line>sting Poles traffic layaway )Rocha's Horatio [vagued scorn's</Line>
+   <Line>fang's riles7 bolero arbiter torched6 ]hamster runt's</Line>
+   <Line>phylae0 sills gazers flambes tanager 6wholes ,Holbein fib</Line>
+   <Line>juice's Freddie&lt; 0dosages cruised necking ::Aron lens</Line>
+   <Line>ampere+ graved torched 5Urdu {unitary Dilbert chill's</Line>
+   <Line>Kinko's] }wieners celli6 _will Helga morgue scores color's</Line>
+   <Line>Burt drover pealed{ blast's- galoshe{ Grafton gasket Niobe</Line>
+   <Line>Jilin Occam wills9 Saran's {hats 5minding infuses foyer's</Line>
+   <Line>::boiled bedtime> carboy {bossy emperor$ unstop Tbilisi</Line>
+   <Line>figures %Owens men 2sops anyone, epic's( dew liar- undo</Line>
+   <Line>%alertly 4goddamn vets 2powwows upset &lt;Terkel Stan's:: gazing</Line>
+   <Line>papery _expects disbars 4malaise donated &lt;balsas cooker</Line>
+   <Line>shamans ]plume Mimosa excepts Zukor's[ ask Cajun penal</Line>
+   <Line>veals fines -loosely ::seven }pummels bills 6majorly chant</Line>
+   <Line>4buckram machine =regions Karin's spikier %autoing planing</Line>
+   <Line>friends facile@ Wotan{ impurer+ @counter narcs@ cattail</Line>
+   <Line>)Jayne \speck genres akin:: hello> 6cocoa's wraiths) loci's</Line>
+   <Line>Muir [dunging Mani\ Cairo's Rita's stages =messy Osbert</Line>
+   <Line>-Douglas Kharkov whiner- slue threw( tempera, axises evading</Line>
+   <Line>brood's coursed 5lea's idea )McKee /horsed Nate pivotal</Line>
+   <Line>milker +Roy's weeded weird vet Elbe's1 3blown 7calves Rome's</Line>
+   <Line>four% [bade razzes vial 6Lawson chalk7 _wholly fluid jostle</Line>
+   <Line>-rind's Dylan agree Kitty bootee2 Ty toasts %mussed ninety</Line>
+   <Line>creep 2final bassi omen's/ |girdle diary9 Shinto Selma</Line>
+   <Line>shiver gait huge} fends genie hump's raze It 3masks vinyls</Line>
+   <Line>arrows turds Hess's( 6muzzle cocky8 chose brandy easies</Line>
+   <Line>laces fuzzes Ike godly@ civic \ebb 4maven herb- notary snare</Line>
+   <Line>Dave junior/ 2furrow trap's +Dick's prior) Juan's pocked</Line>
+   <Line>goofy 'racily élan clever clangs gunny Sean beat lad</Line>
+   <Line>.data's curb\ 7bitmap Haney Lu's] glance arbors Olav's</Line>
+   <Line>|Amalia Millay_ pedals1 9elite gulags husks umbel lithe</Line>
+   <Line>paunch Dorcas oblige% riser) 3moist ,Annam }Oprah bunny</Line>
+   <Line>8Elroy yaws[ pouts| /Tuscan (waging brigs lacks. coax</Line>
+   <Line>foetid\ Trina Eula sued6 slew@ &lt;shahs =Myers echo Euclid</Line>
+   <Line>Dix's) Taiwan batty/ nuke's} $ascots -Keven Kurile Nice</Line>
+   <Line>Sal's[ abject LyX verify) Louis backup:: ruses Leakey yelped</Line>
+   <Line>1yell widest tarpon butte tire Ira's 1sadism pols bay</Line>
+   <Line>bodkin jinnis -dills warden% thud 1wont's jerkin calyx</Line>
+   <Line>{panty 6Marcel larvae weer 0pi /gadget leeks flan[ jest's</Line>
+   <Line>0lynch refuse) Medea( Paul sword6 6rafter divert Aspell</Line>
+   <Line>surtax( Tubman )damped )solo's 8seduce tuxedo wigged0 risks</Line>
+   <Line>7Todd $living lash's eras siesta3 Jeeps kopek> Eva Nb's</Line>
+   <Line>bummed lewdly lamer }hared -Bettye oats Helios |floras weirs</Line>
+   <Line>3Jean facing$ pod Rob 5Siva's Kim's% /slump defers pubbed</Line>
+   <Line>[Nair's Creon_ data's\ orgasm bank's hats realty reef's</Line>
+   <Line>bib's fast }rewires probe, Elsie sitar's] Ypres's infer</Line>
+   <Line>bedded hep culture beacons [stabler 2sanely /Samar's rhea</Line>
+   <Line>seceded removal3 +Malacca eery coolers Miami [Co's nosegay</Line>
+   <Line>zoom Berlin desires_ glacier Betty4 =alright wrist's donors</Line>
+   <Line>8costar poesies:: brimful snowy Brandi 3rounder cult's</Line>
+   <Line>unlike+ heaven Marc's$ ratify5 tearful@ Frankie4 audit</Line>
+   <Line>adviser1 rose's buildup, 9legated spruces primes, Brno</Line>
+   <Line>'N's Wonder} Crystal befalls Ziploc5 elixir amours wrinkle</Line>
+   <Line>2decide gluier snubs Lille's Clare's -wasn't =sincere resend</Line>
+   <Line>Leigh's Brokaw suede- ]pillion 0yoga garages soon supper</Line>
+   <Line>iamb's drooled skirt's' (icing Carey's pinions hotshot</Line>
+   <Line>senders] Fatima fury's Lear's blurry squad carbide/ Erato's</Line>
+   <Line>Ricky Demeter{ tasted5 Jenkins( Lloyd- knitted boldly</Line>
+   <Line>%Arctic passels@ 7expends wives's morgues] dimmers postman</Line>
+   <Line>Murat4 absorb:: Wyeth lance5 fleeced gushed corded triage</Line>
+   <Line>Tarazed 2hernias )hula caroms rubber 3pothook Pl plot's</Line>
+   <Line>dramas) Alps drools Balkan' gos| Lysenko- &lt;pixel spouse</Line>
+   <Line>allayed+ champed rails 0Jimenez dived helps markups+ denims</Line>
+   <Line>6monitor basemen [sledges kabob Tutsi> Ben's &lt;encored Knapp</Line>
+   <Line>spool= absinth {hoard Pooh's hijacks+ collude Z's Midwest</Line>
+   <Line>shocker bright/ mender1 prep:: paces\ lily braids&lt; ridge</Line>
+   <Line>payable Paris's Tojo's jailers booming 'mileage trap's</Line>
+   <Line>Saab's swarms lip's/ okaying8 Ariz's aerials &lt;plume Crimean</Line>
+   <Line>_rum's %enrols hanging hospice&lt; 4urging Gipsy 1roaring bias</Line>
+   <Line>salvo8 schemes 2mien's briny sprites +Park refuges galling</Line>
+  </Level>
+  <Level>
+   <NewCharacters>PERL: {}()[]&lt;>\#</NewCharacters>
+   <Line>if ($line=~/^[^ ]+\s+\(([^)]+)\)\s/) {</Line>
+   <Line>$this->conffiles([map { chomp; $_ } $this->runpipe($zero, "LANG=C rpm -qcp $file")]);</Line>
+   <Line>$this->conffiles([]);</Line>
+   <Line>$this->filelist([map { chomp; $_ } $this->runpipe($zero, "LANG=C rpm -qpl $file")]);</Line>
+   <Line>$this->filelist([]);</Line>
+   <Line>arch group slpkgversion}];</Line>
+   <Line>Label => [],</Line>
+   <Line>Comment => [],</Line>
+   <Line>Attachment => [],</Line>
+   <Line>DependsOn => [],</Line>
+   <Line>Precedes => [],</Line>
+   <Line>my $self = bless [], $class;</Line>
+   <Line>@{ $var->[$zero] || [] }</Line>
+   <Line>@{ defined $var->[$zero] ? $var->[$zero] : [] }</Line>
+   <Line>$fmt =~ s/([^\s\[]*)\[( [^\]]* )\]/\x$n\xt$m\xe/xgo;</Line>
+   <Line>Convert::ASNI::_dec_integer({},[],{},$tmp,$_[$zero],$pos,$len);</Line>
+   <Line>Convert::ASNI::_dec_boolean({},[],{},$tmp,$_[$zero],$pos,$len);</Line>
+   <Line>Convert::ASNI::_dec_string({},[],{},$tmp,$_[$zero],$pos,$len);</Line>
+   <Line>$_[$one]->[cLOOP] &amp;&amp; ($_[$three]=[]), #loop</Line>
+   <Line>@{$yyval = []}[cTYPE,cCHILD] = ('COMPONENTS', $yyvs[$yyvsp-$e]);</Line>
+   <Line>@{$yyval = []}[cTYPE,cCHILD,cLOOP,cOPT] = ($yyvs[$yyvsp-$d], [$yyvs[$yyvsp-$h]], $r, $yyvs[$yyvsp-$l]);</Line>
+   <Line>@{$yyval = []}[cTYPE,cCHILD] = ('SEQUENCE', $yyvs[$yyvsp-$c]);</Line>
+   <Line>@{$yyval = []}[cTYPE,cCHILD] = ('SET', $yyvs[$yyvsp-$b]);</Line>
+   <Line>@{$yyval = []}[cTYPE,cCHILD] = ('CHOICE', $yyvs[$yyvsp-$a]);</Line>
+   <Line>@{$yyval = []}[cTYPE] = ('ENUM');</Line>
+   <Line>{ @{$yyval = []}[cTYPE] = $yyvs[$yyvsp-$a];</Line>
+   <Line>{ @{$yyval = []}[cTYPE] = $yyvs[$yyvsp-$b];</Line>
+   <Line>{ @{$yyval = []}[cTYPE] = $yyvs[$yyvsp-$c];</Line>
+   <Line>@{$yyval = []}[cTYPE,cCHILD,cDEFINE] = ('ANY',undef,$yyvs[$yyvsp-$z]);</Line>
+   <Line>{ @{$yyval = []}[cTYPE] = $yyvs[$yyvsp-$d];</Line>
+   <Line>{ $yyval = [];</Line>
+   <Line>([,{}]|::=)</Line>
+   <Line>io => [qw(asn_recv asn_send asn_read asn_write asn_get asn_ready)],</Line>
+   <Line>debug => [qw(asn_dump asn_hexdump)],</Line>
+   <Line>ASN_PRIMITIVE ASN_CONSTRUCTOR ASN_LONG_LEN ASN_EXTENSION_ID ASN_BIT)],</Line>
+   <Line>tag => [qw(asn_tag asn_decode_tag asn_decode_tag asn_encode_tag asn_decode_length asn_encode_length)]</Line>
+   <Line>eval { _encode($self->{options}, $self->{script}, $stash, [], $buf) }</Line>
+   <Line>my $me = ref($pkg) ? $pkg : bless [];</Line>
+   <Line>my $me = ref($pkg) ? $pkg : bless [], $pkg;</Line>
+   <Line>bless [], $type;</Line>
+   <Line>$$self{'data'}{'sections'}{'events'} = [];</Line>
+   <Line>$$self{'data'}{'sections'}{'holidays'} = [];</Line>
+   <Line>$$self{'data'}{'sections'}{$sect} = [];</Line>
+   <Line>'date' => [], # the parsed date split</Line>
+   <Line>'offset' => [], # The offset from GMT</Line>
+   <Line>'gmt' => [], # the date converted to GMT</Line>
+   <Line>'loc' => [], # the date converted to local timezone</Line>
+   <Line>$$dmb{'data'}{'holidays'}{'hols'} = [];</Line>
+   <Line>return [];</Line>
+  </Level>
+  <Level>
+   <NewCharacters>PERL: {}()[]&lt;>\# + 0123456789</NewCharacters>
+   <Line>if ($path !~ m|^/[^;\(\)]+|) {</Line>
+   <Line>if ($line =~ m/^tcp:\s+\[(\S+)\]\s+\S+\s+(\S+)\s*$/) {</Line>
+   <Line>my $storage_list = [];</Line>
+   <Line>my $cmd = ['/sbin/vgchange', '-aln', $scfg->{vgname}];</Line>
+   <Line>my $slist = [];</Line>
+   <Line>my $devlist = [];</Line>
+   <Line>while ($tmpl =~ m/([^{]+)?({([^}]+)})?/g) {</Line>
+   <Line>#'et' => [], # Ethopia or Estonia ??</Line>
+   <Line>#'th' => [],</Line>
+   <Line>my $kvmkeymaparray = [];</Line>
+   <Line>return $str ? [ Text::ParseWords::shellwords($str) ] : [];</Line>
+   <Line>my $lines = [];</Line>
+   <Line>my $cmd = ['lvremove', '-f', $di->{snapdev}];</Line>
+   <Line>return [];</Line>
+   <Line>my $res = [];</Line>
+   <Line>$skiplist = [] if !$skiplist;</Line>
+   <Line>my $bklist = [];</Line>
+   <Line>my $tasklist = [];</Line>
+   <Line>$task->{disks} = [];</Line>
+   <Line>my $vollist = [];</Line>
+   <Line>=item B&lt;shell_quote> [I&lt;string>]...</Line>
+   <Line>=item B&lt;shell_quote_best_effort> [I&lt;string>]...</Line>
+   <Line>=item B&lt;shell_comment_quote> [I&lt;string>]</Line>
+   <Line>RFC2732 => qr/[^A-Za-z0-9\-_.!~*'()]/,</Line>
+   <Line>return $1 if $_[0] =~ s,^\\\\([^\\]+),,; # UNC</Line>
+   <Line>return $1 if $_[0] =~ s,^\\\\([^\\]+),,; # UNC</Line>
+   <Line>return $path =~ m,^[a-zA-Z]:, || $path =~ m,^[/\\],;</Line>
+   <Line># gopher://&lt;host>[:&lt;port>]/&lt;gopher-path></Line>
+   <Line>'us' => [qw(www.ACME.gov www.ACME.mil)],</Line>
+   <Line>'gb' => [qw(www.ACME.co.uk www.ACME.org.uk www.ACME.ac.uk)],</Line>
+   <Line>'au' => [qw(www.ACME.com.au www.ACME.org.au www.ACME.edu.au)],</Line>
+   <Line>'il' => [qw(www.ACME.co.il www.ACME.org.il www.ACME.net.il)],</Line>
+   <Line>m,^[a-zA-Z]:[/\\],) # dosish file name</Line>
+   <Line>$reserved = q(;/?:@&amp;=+$,[]);</Line>
+   <Line>$u->query_param($key, []);</Line>
+   <Line>$key =~ s/([;\/?:@&amp;=+,\$\[\]%])/ URI::Escape::escape_char($1)/eg;</Line>
+   <Line>$val =~ s/([;\/?:@&amp;=+,\$\[\]%])/ URI::Escape::escape_char($1)/eg;</Line>
+   <Line>for (@copy) { s/([;\/?:@&amp;=+,\$\[\]%])/ URI::Escape::escape_char($1)/eg; }</Line>
+   <Line>$old =~ s{^\[(.*)\]$}{$1}; # remove brackets around IPv6 (RFC 3986 3.2.2)</Line>
+   <Line>bless [URI::file->new_abs(shift)], $class;</Line>
+   <Line>return eval { $thingy->can( 'as_string' ) } ? $thingy->as_string([]) : $thingy;</Line>
+   <Line>my $self = bless [], $class;</Line>
+   <Line>return [] if $string eq '[]';</Line>
+   <Line>$hash->{$key} = [];</Line>
+   <Line>$lines[-1] .= ' []';</Line>
+   <Line>$string =~ s/([\x00-\x1f])/\\$UNPRINTABLE[ord($1)]/g;</Line>
+   <Line>$line .= ' []';</Line>
+   <Line>$line .= ' []';</Line>
+   <Line>and mappings, support for the constructs [] (empty sequence) and {}</Line>
+   <Line>--- []</Line>
+  </Level>
+ </Levels>
+</KTouchLecture>

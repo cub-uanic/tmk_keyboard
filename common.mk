@@ -3,9 +3,9 @@ SRC +=	$(COMMON_DIR)/host.c \
 	$(COMMON_DIR)/keyboard.c \
 	$(COMMON_DIR)/action.c \
 	$(COMMON_DIR)/action_tapping.c \
-	$(COMMON_DIR)/action_oneshot.c \
 	$(COMMON_DIR)/action_macro.c \
 	$(COMMON_DIR)/action_layer.c \
+	$(COMMON_DIR)/action_util.c \
 	$(COMMON_DIR)/keymap.c \
 	$(COMMON_DIR)/timer.c \
 	$(COMMON_DIR)/print.c \
@@ -25,6 +25,7 @@ endif
 ifdef MOUSEKEY_ENABLE
     SRC += $(COMMON_DIR)/mousekey.c
     OPT_DEFS += -DMOUSEKEY_ENABLE
+    OPT_DEFS += -DMOUSE_ENABLE
 endif
 
 ifdef EXTRAKEY_ENABLE
@@ -47,14 +48,8 @@ ifdef NKRO_ENABLE
     OPT_DEFS += -DNKRO_ENABLE
 endif
 
-ifdef PS2_MOUSE_ENABLE
-    SRC += $(COMMON_DIR)/ps2.c \
-           $(COMMON_DIR)/ps2_mouse.c
-    OPT_DEFS += -DPS2_MOUSE_ENABLE
-endif
-
-ifdef $(or MOUSEKEY_ENABLE, PS2_MOUSE_ENABLE)
-    OPT_DEFS += -DMOUSE_ENABLE
+ifdef USB_6KRO_ENABLE
+    OPT_DEFS += -DUSB_6KRO_ENABLE
 endif
 
 ifdef SLEEP_LED_ENABLE
@@ -67,6 +62,14 @@ ifdef BACKLIGHT_ENABLE
     SRC += $(COMMON_DIR)/backlight.c
     OPT_DEFS += -DBACKLIGHT_ENABLE
 endif
+
+ifdef KEYMAP_SECTION_ENABLE
+    OPT_DEFS += -DKEYMAP_SECTION_ENABLE
+    EXTRALDFLAGS = -Wl,-L$(TOP_DIR),-Tldscript_keymap_avr5.x
+endif
+
+# Version string
+OPT_DEFS += -DVERSION=$(shell (git describe --always --dirty || echo 'unknown') 2> /dev/null)
 
 
 # Search Path

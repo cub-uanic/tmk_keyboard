@@ -1,0 +1,26 @@
+#!/bin/sh
+
+xset r rate 350 80
+
+opts='-model pc104 -option grp:caps_toggle,grp_led:scroll'
+
+case "$1" in
+    dvorak)
+        setxkbmap $opts -layout us,ru -variant dvp,
+        ;;
+    carpalx)
+        setxkbmap $opts -layout carpalx,ru -variant qgmlwb-p,
+        ;;
+    workman)
+        variant='wcp,'
+        lsusb | grep -qi FEED:1307 && variant='wce,'
+        [ -e ~/.force_ergodox ] && variant='wce,'
+        [ -e ~/.force_plain   ] && variant='wcp,'
+        setxkbmap $opts -layout workman,ru -variant "$variant"
+        ;;
+    *)
+        # US or unknown layout - setting US
+        setxkbmap $opts -layout us,ru
+        ;;
+esac
+

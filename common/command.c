@@ -27,6 +27,7 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "keyboard.h"
 #include "bootloader.h"
 #include "action_layer.h"
+#include "action_util.h"
 #include "eeconfig.h"
 #include "sleep_led.h"
 #include "led.h"
@@ -150,6 +151,7 @@ static void print_eeconfig(void)
     print(".no_gui: "); print_dec(kc.no_gui); print("\n");
     print(".swap_grave_esc: "); print_dec(kc.swap_grave_esc); print("\n");
     print(".swap_backslash_backspace: "); print_dec(kc.swap_backslash_backspace); print("\n");
+    print(".nkro: "); print_dec(kc.nkro); print("\n");
 
 #ifdef BACKLIGHT_ENABLE
     backlight_config_t bc;
@@ -251,10 +253,48 @@ static bool command_common(uint8_t code)
             break;
         case KC_V: // print version & information
             print("\n\n----- Version -----\n");
-            print(STR(DESCRIPTION) "\n");
-            print(STR(MANUFACTURER) "(" STR(VENDOR_ID) ")/");
-            print(STR(PRODUCT) "(" STR(PRODUCT_ID) ") ");
-            print("VERSION: " STR(DEVICE_VER) "\n");
+            print("DESC: " STR(DESCRIPTION) "\n");
+            print("VID: " STR(VENDOR_ID) "(" STR(MANUFACTURER) ") "
+                  "PID: " STR(PRODUCT_ID) "(" STR(PRODUCT) ") "
+                  "VER: " STR(DEVICE_VER) "\n");
+            print("BUILD: " STR(VERSION) " (" __TIME__ " " __DATE__ ")\n");
+            /* build options */
+            print("OPTIONS:"
+#ifdef PROTOCOL_PJRC
+            " PJRC"
+#endif
+#ifdef PROTOCOL_LUFA
+            " LUFA"
+#endif
+#ifdef PROTOCOL_VUSB
+            " VUSB"
+#endif
+#ifdef BOOTMAGIC_ENABLE
+            " BOOTMAGIC"
+#endif
+#ifdef MOUSEKEY_ENABLE
+            " MOUSEKEY"
+#endif
+#ifdef EXTRAKEY_ENABLE
+            " EXTRAKEY"
+#endif
+#ifdef CONSOLE_ENABLE
+            " CONSOLE"
+#endif
+#ifdef COMMAND_ENABLE
+            " COMMAND"
+#endif
+#ifdef NKRO_ENABLE
+            " NKRO"
+#endif
+#ifdef KEYMAP_SECTION_ENABLE
+            " KEYMAP_SECTION"
+#endif
+            " " STR(BOOTLOADER_SIZE) "\n");
+
+            print("GCC: " STR(__GNUC__) "." STR(__GNUC_MINOR__) "." STR(__GNUC_PATCHLEVEL__) 
+                  " AVR-LIBC: " __AVR_LIBC_VERSION_STRING__
+                  " AVR_ARCH: avr" STR(__AVR_ARCH__) "\n");
             break;
         case KC_T: // print timer
             print_val_hex32(timer_count);
@@ -262,13 +302,13 @@ static bool command_common(uint8_t code)
         case KC_S:
             print("\n\n----- Status -----\n");
             print_val_hex8(host_keyboard_leds());
+            print_val_hex8(keyboard_protocol);
+            print_val_hex8(keyboard_idle);
 #ifdef PROTOCOL_PJRC
             print_val_hex8(UDCON);
             print_val_hex8(UDIEN);
             print_val_hex8(UDINT);
             print_val_hex8(usb_keyboard_leds);
-            print_val_hex8(usb_keyboard_protocol);
-            print_val_hex8(usb_keyboard_idle_config);
             print_val_hex8(usb_keyboard_idle_count);
 #endif
 

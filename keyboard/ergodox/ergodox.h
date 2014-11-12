@@ -45,8 +45,12 @@ Most used files are located at
 #define OLATA           0x14            // output latch register
 #define OLATB           0x15
 
+extern uint8_t mcp23018_status;
+
 void init_ergodox(void);
+void ergodox_blink_all_leds(void);
 uint8_t init_mcp23018(void);
+uint8_t ergodox_left_leds_update(void);
 
 #define LED_BRIGHTNESS_LO       31
 #define LED_BRIGHTNESS_HI       255
@@ -74,8 +78,6 @@ inline void ergodox_right_led_3_off(void)   { DDRB &= ~(1<<7); PORTB &= ~(1<<7);
 inline void ergodox_left_led_1_off(void)    { ergodox_left_led_1 = 0; }
 inline void ergodox_left_led_2_off(void)    { ergodox_left_led_2 = 0; }
 inline void ergodox_left_led_3_off(void)    { ergodox_left_led_3 = 0; }
-
-inline void ergodox_left_leds_update(void)  { init_mcp23018(); }
 
 inline void ergodox_led_all_on(void)
 {

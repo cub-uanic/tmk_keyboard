@@ -112,5 +112,8 @@ workman: all
 workman_mac: OPT_DEFS += -DKEYMAP_WORKMAN_KINESIS_MAC
 workman_mac: all
 
+micro: OPT_DEFS += -DKEYMAP_MICRO
+micro: all
+
 cub: OPT_DEFS += -DKEYMAP_CUB
 cub: all

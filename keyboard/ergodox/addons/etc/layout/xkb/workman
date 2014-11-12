@@ -1,0 +1,180 @@
+// workman layouts
+// see http://viralintrospection.wordpress.com/2010/09/06/a-different-philosophy-in-designing-keyboard-layouts/
+
+// xkb keymap prepared by Oleg Kostyuk <cub@cub.org.ua>
+// copyright 2012, bsd license
+
+
+// to use, copy to /usr/share/X11/xkb/symbols/workman and add the following
+// lines to /usr/share/X11/xkb/symbols.dir:
+//
+//     -dp----- a------- workman(wkm)
+//     --p----- a------- workman(wcp)
+//     --p----- a------- workman(wco)
+//     --p----- a------- workman(wdp)
+//
+// then load with, e.g.
+//
+//     setxkbmap workman                            # default layout
+//     setxkbmap -layout workman -variant wdp       # to select other variants
+
+
+default
+partial alphanumeric_keys
+xkb_symbols "wkm" {
+
+    name[Group1] = "The Workman Keyboard Layout";
+
+    include "latin"
+    include "latin(nodeadkeys)"
+
+    name[Group1] = "QFMLWY - full optimization, QWERTY lettermask";
+
+    //              Unmodified  Shift       AltGr                   Shift+AltGr
+    key <AD01>	{ [ q,          Q,          at,                     Greek_OMEGA          ] };
+    key <AD02>	{ [ d,          D,          dstroke,                ordfeminine          ] };
+    key <AD03>	{ [ r,          R,          mu,                     masculine            ] };
+    key <AD04>	{ [ w,          W,          lstroke,                Lstroke              ] };
+    key <AD05>	{ [ b,          B,          lstroke,                Lstroke              ] };
+    key <AD06>	{ [ j,          J,          leftarrow,              yen                  ] };
+    key <AD07>	{ [ f,          F,          downarrow,              uparrow              ] };
+    key <AD08>	{ [ u,          U,          oslash,                 Ooblique             ] };
+    key <AD09>	{ [ p,          P,          rightdoublequotemark,   rightsinglequotemark ] };
+    key <AD10>	{ [ semicolon,  colon,      rightdoublequotemark,   rightsinglequotemark ] };
+
+    //              Unmodified  Shift       AltGr                   Shift+AltGr
+    key <AC01>	{ [ a,          A,          eth,                    ETH                  ] };
+    key <AC02>	{ [ s,          S,          ssharp,                 section              ] };
+    key <AC03>	{ [ h,          H,          tslash,                 Tslash               ] };
+    key <AC04>	{ [ t,          T                                                        ] };
+    key <AC05>	{ [ g,          G,          paragraph,              registered           ] };
+    key <AC06>	{ [ y,          Y,          rightarrow,             idotless             ] };
+    key <AC07>	{ [ n,          N,          ae,                     AE                   ] };
+    key <AC08>	{ [ e,          E,          EuroSign                                     ] };
+    key <AC09>	{ [ o,          O,          hstroke,                Hstroke              ] };
+    key <AC10>	{ [ i,          I,          hstroke,                Hstroke              ] };
+
+    //              Unmodified  Shift       AltGr                   Shift+AltGr
+    key <AB01>	{ [ z,          Z,          guillemotleft,          less                 ] };
+    key <AB02>	{ [ x,          X,          leftdoublequotemark,    leftsinglequotemark  ] };
+    key <AB03>	{ [ m,          M,          eng,                    ENG                  ] };
+    key <AB04>	{ [ c,          C,          cent,                   copyright            ] };
+    key <AB05>	{ [ v,          V,          guillemotright,         greater              ] };
+    key <AB06>	{ [ k,          K,          thorn,                  THORN                ] };
+    key <AB07>	{ [ l,          L,          kra,                    ampersand            ] };
+
+};
+
+
+partial alphanumeric_keys
+xkb_symbols "wco" {
+
+    include "workman(wkm)"
+
+    name[Group1] = "Workman for Programmers, with light modifications from cub@uanic (old)";
+
+    //             Unmodified       Shift           AltGr            Shift+AltGr
+    // symbols row, left side
+    key <TLDE>	{ [ asciitilde,      grave,          dead_grave                  ]	};
+    key <AE01>	{ [ exclam,          1,              exclamdown                  ]	};
+    key <AE02>	{ [ braceleft,       2,              currency                    ]	};
+    key <AE03>	{ [ numbersign,      3,              cent                        ]	};
+    key <AE04>	{ [ semicolon,       4,              yen                         ]	};
+    key <AE05>	{ [ braceright,      5,              EuroSign                    ]	};
+    key <AE06>	{ [ bracketleft,     6,              sterling                    ]	};
+
+    // symbols row, right side
+    key <AE07>	{ [ ampersand,       7                                           ]	};
+    key <AE08>	{ [ asterisk,        8,              onehalf                     ]	};
+    key <AE09>	{ [ parenleft,       9                                           ]	};
+    key <AE10>	{ [ parenright,      0                                           ]	};
+    key <AE11>	{ [ bracketright,    percent                                     ]	};
+    key <AE12>	{ [ equal,           plus                                        ]	};
+    key <BKSP>	{ [ BackSpace                                                    ]	};
+
+    // upper row, right side
+    key <AD10>	{ [ dollar,          at,             dead_acute, dead_doubleacute ]	};
+    key <AD11>	{ [ colon,           asciicircum,    dead_circumflex, dead_caron  ]	};
+    key <AD12>	{ [ apostrophe,      quotedbl                                     ]	};
+
+    // home row, right side
+    key <AC11>	{ [ minus,           underscore,     hyphen                      ]	};
+
+    // lower row, left side
+    key <LSGT>	{ [ greater,         less,           bar,            brokenbar   ]	};
+};
+
+
+partial alphanumeric_keys
+xkb_symbols "wcp" {
+
+    include "workman(wco)"
+
+    name[Group1] = "Workman for Programmers, with light modifications from cub@uanic";
+
+    //             Unmodified       Shift           AltGr            Shift+AltGr
+    // symbols row, left side
+    key <AE01>	{ [ semicolon,       1,              exclamdown                  ]	};
+    key <AE02>	{ [ exclam,          2,              currency                    ]	};
+    key <AE04>	{ [ braceleft,       4,              yen                         ]	};
+
+    // symbols row, right side
+    key <AE07>	{ [ bracketright,    7                                           ]	};
+    key <AE11>	{ [ ampersand,       percent                                     ]	};
+};
+
+
+partial alphanumeric_keys
+xkb_symbols "wce" {
+
+    include "workman(wcp)"
+
+    name[Group1] = "Workman for Programmers, with light modifications from cub@uanic, for Ergodox";
+
+    //             Unmodified       Shift           AltGr            Shift+AltGr
+    key <BKSL>	{ [ apostrophe,      quotedbl                                    ]	};
+    key <AE11>	{ [ asciicircum,     backslash                                   ]	};
+    key <AD11>	{ [ colon,           percent                                     ]	};
+    key <AC11>	{ [ minus,           underscore,     hyphen                      ]	};
+    key <AD12>	{ [ bar,             ampersand                                   ]	};
+};
+
+
+partial alphanumeric_keys
+xkb_symbols "wdp" {
+
+    include "workman(wkm)"
+
+    name[Group1] = "Workman for Programmers, with modifications from Dvorak for programmers";
+
+    //             Unmodified       Shift           AltGr            Shift+AltGr
+    // symbols row, left side
+    key <TLDE>	{ [ asciitilde,      grave,          dead_grave                  ]	};
+    key <AE01>	{ [ semicolon,       ampersand                                   ]	};
+    key <AE02>	{ [ bracketleft,     7,              currency                    ]	};
+    key <AE03>	{ [ braceleft,       5,              cent                        ]	};
+    key <AE04>	{ [ braceright,      3,              yen                         ]	};
+    key <AE05>	{ [ parenleft,       1,              EuroSign                    ]	};
+    key <AE06>	{ [ equal,           9,              sterling                    ]	};
+
+    // symbols row, right side
+    key <AE07>	{ [ asterisk,        0                                           ]	};
+    key <AE08>	{ [ parenright,      2,              onehalf                     ]	};
+    key <AE09>	{ [ plus,            4                                           ]	};
+    key <AE10>	{ [ bracketright,    6                                           ]	};
+    key <AE11>	{ [ percent,         8                                           ]	};
+    key <AE12>	{ [ exclam,          numbersign,     exclamdown                  ]	};
+    key <BKSP>	{ [ BackSpace                                                    ]	};
+
+    // upper row, right side
+    key <AD10>	{ [ dollar,          at,             dead_acute, dead_doubleacute ]	};
+    key <AD11>	{ [ colon,           asciicircum,    dead_circumflex, dead_caron  ]	};
+    key <AD12>	{ [ apostrophe,      quotedbl                                     ]	};
+
+    // home row, right side
+    key <AC11>	{ [ minus,           underscore,     hyphen                      ]	};
+
+    // lower row, left side
+    key <LSGT>	{ [ greater,         less,           bar,            brokenbar   ]	};
+};
+

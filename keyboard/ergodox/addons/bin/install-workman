@@ -1,0 +1,18 @@
+#!/bin/sh
+
+if [ "`id -u`" = "0" ]; then
+    [ -d /usr/share/kde4/apps/ktouch/ ] && cp ~/etc/layout/ktouch/workman* /usr/share/kde4/apps/ktouch/
+    cp ~/etc/layout/xkb/workman /usr/share/X11/xkb/symbols/workman
+    cat /usr/share/X11/xkb/symbols.dir | grep -v workman > /usr/share/X11/xkb/symbols.dir.new
+    cat ~/etc/layout/xkb/symbols.dir.workman >> /usr/share/X11/xkb/symbols.dir.new
+    mv /usr/share/X11/xkb/symbols.dir.new /usr/share/X11/xkb/symbols.dir
+    echo "Now you could run these command to set Workman-Dvorak-P, Workman-Cub-P, Dvorak-P or QWERTY layouts:"
+    echo "    setxkbmap -layout workman,ru -variant wdp,"
+    echo "    setxkbmap -layout workman,ru -variant wcp,    # for usual keyboard"
+    echo "    setxkbmap -layout workman,ru -variant wce,    # for Ergodox keyboard"
+    echo "    setxkbmap -layout us,ru      -variant dvp,"
+    echo "    setxkbmap -layout us,ru      -variant ,"
+else
+    echo "You should run this from root account"
+    exit 1
+fi

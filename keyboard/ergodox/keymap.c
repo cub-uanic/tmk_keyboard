@@ -20,8 +20,10 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include <util/delay.h>
 #include "keycode.h"
 #include "action.h"
+#include "action_util.h"
 #include "action_code.h"
 #include "action_macro.h"
+#include "action_layer.h"
 #include "bootloader.h"
 #include "report.h"
 #include "host.h"
@@ -81,6 +83,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "keymap_workman.h"
 #elif defined(KEYMAP_WORKMAN_KINESIS_MAC)
 #include "keymap_workman_kinesis_mac.h"
+#elif defined(KEYMAP_MICRO)
+#include "keymap_micro.h"
 #elif defined(KEYMAP_CUB)
 #include "keymap_cub.h"
 #else
@@ -216,6 +220,11 @@ uint8_t keymap_key_to_keycode(uint8_t layer, key_t key)
     }
 }
 
+#if defined(KEYMAP_CUB)
+
+// function keymap_fn_to_action will be defined in keymap_cub.h
+
+#else
 /* translates Fn keycode to action */
 action_t keymap_fn_to_action(uint8_t keycode)
 {
@@ -227,3 +236,5 @@ action_t keymap_fn_to_action(uint8_t keycode)
     }
     return action;
 }
+#endif
+
