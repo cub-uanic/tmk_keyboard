@@ -59,6 +59,7 @@ static void power_down(uint8_t wdto)
 #ifdef PROTOCOL_LUFA
     if (USB_DeviceState == DEVICE_STATE_Configured) return;
 #endif
+#ifndef NO_SUSPEND_POWER_DOWN
     wdt_timeout = wdto;
 
     // Watchdog Interrupt Mode
@@ -78,6 +79,7 @@ static void power_down(uint8_t wdto)
 
     // Disable watchdog after sleep
     wdt_disable();
+#endif
 }
 
 void suspend_power_down(void)
@@ -91,7 +93,9 @@ bool suspend_wakeup_condition(void)
     matrix_scan();
     matrix_power_down();
     for (uint8_t r = 0; r < MATRIX_ROWS; r++) {
-        if (matrix_get_row(r)) return true;
+      for (uint8_t c = 0; c < MATRIX_COLS; c++) {
+        if (matrix_is_on(r,c)) { return true; }
+      }
     }
     return false;
 }
