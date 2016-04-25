@@ -134,7 +134,10 @@ workman: all
 micro: OPT_DEFS += -DKEYMAP_MICRO
 micro: all
 
-cub: OPT_DEFS += -DKEYMAP_CUB
+default: OPT_DEFS += -DKEYMAP_CUB
 cub: all
+
+default: OPT_DEFS += -DKEYMAP_DEFAULT
+default: all
 
 
