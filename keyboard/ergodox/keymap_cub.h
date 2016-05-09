@@ -315,7 +315,6 @@ static const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
 
 /*
     // templates to copy from
-
     KEYMAP(  // LayerN: transparent on edges + hard-defined thumb keys, all others are empty
         // left hand
         TRNS,NO,  NO,  NO,  NO,  NO,  NO,
@@ -513,13 +512,11 @@ void action_function(keyrecord_t *record, uint8_t id, uint8_t opt)
 
 /*
     keyevent_t event = record->event;
-
     if (id == CUSTOM_KEY) {
         uint8_t layer = biton32(layer_state);
         uint8_t col = event.key.col;
         uint8_t row = event.key.row;
         uint8_t handled = 0;
-
         if (event.pressed) {
             if (layer == XXX && col == XXX && row == XXX) {
                     action_macro_play(
@@ -531,7 +528,6 @@ void action_function(keyrecord_t *record, uint8_t id, uint8_t opt)
                 }
             }
         }
-
         if (!handled) {
             print("custom key not handled");
             print(": layer "); pdec(layer);
@@ -592,4 +588,3 @@ action_t keymap_fn_to_action(uint8_t keycode)
 
     return action;
 }
-
