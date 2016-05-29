@@ -81,6 +81,8 @@ along with this program.  If not, see <http://www.gnu.org/licenses/>.
 #include "keymap_colemak.h"
 #elif defined(KEYMAP_WORKMAN)
 #include "keymap_workman.h"
+#elif defined(KEYMAP_WORKMAN_KINESIS_MAC)
+#include "keymap_workman_kinesis_mac.h"
 #elif defined(KEYMAP_MICRO)
 #include "keymap_micro.h"
 #elif defined(KEYMAP_CUB)
