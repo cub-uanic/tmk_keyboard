@@ -1,0 +1,100 @@
+#include <util/delay.h>
+#include "bootloader.h"
+#include "keymap_common.h"
+
+
+const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
+    /*
+     * Template for ascii-art versions of the keymap
+     *
+     * ,--------------------------------------------------.           ,--------------------------------------------------.
+     * |   ~    |   0  |   0  |   0  |   0  |   0  |   \  |           |   -  |   0  |   0  |   0  |   0  |   0  |   =    |
+     * |--------+------+------+------+------+-------------|           |------+------+------+------+------+------+--------|
+     * | Tab    |   a  |   a  |   a  |   a  |   a  |  L   |           |  L   |   a  |   a  |   a  |   a  |   a  |   [    |
+     * |--------+------+------+------+------+------|      |           |      |------+------+------+------+------+--------|
+     * | Tab/Shf|   a  |   a  |   a  |   a  |   a  |------|           |------|   a  |   a  |   a  |   a  |   a  |   '    |
+     * |--------+------+------+------+------+------|  L   |           |  L   |------+------+------+------+------+--------|
+     * | LCtrl  |   a  |   a  |   a  |   a  |   a  |      |           |      |   a  |   a  |   a  |   a  |   a  |   ]    |
+     * `--------+------+------+------+------+-------------'           `-------------+------+------+------+------+--------'
+     *   |  L   |  L   | Caps | LAlt | LGui |                                       |  Lft |  Up  |  Dn  | Rght |  L   |
+     *   `----------------------------------'                                       `----------------------------------'
+     *                                        ,-------------.       ,-------------.
+     *                                        |  L   | Home |       | PgUp | Del  |
+     *                                 ,------|------|------|       |------+------+------.
+     *                                 |      |      |  End |       | PgDn |      |      |
+     *                                 | BkSp |  ESC |------|       |------| Enter| Space|
+     *                                 |      |      |  Spc |       | Ins  |      |      |
+     *                                 `--------------------'       `--------------------'
+     *
+     */
+
+
+/*
+    // Template for keymap definition
+
+    KEYMAP(  // LayerN: transparent on edges + hard-defined thumb keys, all others are empty
+        // left hand
+        TRNS,NO,  NO,  NO,  NO,  NO,  NO,
+        TRNS,NO,  NO,  NO,  NO,  NO,  TRNS,
+        TRNS,NO,  NO,  NO,  NO,  NO,
+        TRNS,NO,  NO,  NO,  NO,  NO,  TRNS,
+        TRNS,TRNS,TRNS,LALT,LGUI,
+                                      TRNS,TRNS,
+                                           TRNS,
+                                 LCTL,LSFT,TRNS,
+        // right hand
+             NO,  NO,  NO,  NO,  NO,  NO,  TRNS,
+             TRNS,NO,  NO,  NO,  NO,  NO,  TRNS,
+                  NO,  NO,  NO,  NO,  NO,  TRNS,
+             TRNS,NO,  NO,  NO,  NO,  NO,  TRNS,
+                       RGUI,RALT,TRNS,TRNS,TRNS,
+        TRNS,TRNS,
+        TRNS,
+        TRNS,RSFT,RCTL
+    ),
+    KEYMAP(  // LayerN: fully transparent
+        // left hand
+        TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,
+        TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,
+        TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,
+        TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,
+        TRNS,TRNS,TRNS,TRNS,TRNS,
+                                      TRNS,TRNS,
+                                           TRNS,
+                                 TRNS,TRNS,TRNS,
+        // right hand
+             TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,
+             TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,
+                  TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,
+             TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,TRNS,
+                       TRNS,TRNS,TRNS,TRNS,TRNS,
+        TRNS,TRNS,
+        TRNS,
+        TRNS,TRNS,TRNS
+    ),
+*/
+
+};
+
+/* id for user defined functions & macros */
+enum function_id {
+    TEENSY_KEY,
+};
+
+/*
+ * Fn action definition
+ */
+const uint16_t PROGMEM fn_actions[] = {
+    ACTION_FUNCTION(TEENSY_KEY),                    // FN0 - Teensy key
+};
+
+void action_function(keyrecord_t *event, uint8_t id, uint8_t opt)
+{
+    if (id == TEENSY_KEY) {
+        clear_keyboard();
+        print("\n\nJump to bootloader... ");
+        _delay_ms(250);
+        bootloader_jump(); // should not return
+        print("not supported.\n");
+    }
+}

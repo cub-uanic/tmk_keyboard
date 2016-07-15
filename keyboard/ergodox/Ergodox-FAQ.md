@@ -41,17 +41,33 @@ https://github.com/cub-uanic/tmk_keyboard/tree/master
     make -f Makefile.lufa clean
 
     # use one of these
-    make -f Makefile.lufa
-    make -f Makefile.lufa dvorak
-    make -f Makefile.lufa colemak
-    make -f Makefile.lufa workman
-    make -f Makefile.lufa micro
-    make -f Makefile.lufa cub
+    make -f Makefile.lufa #defaults to blazak
+    make -f Makefile.lufa KEYMAP=dvorak
+    make -f Makefile.lufa KEYMAP=colemak
+    make -f Makefile.lufa KEYMAP=workman
+    make -f Makefile.lufa KEYMAP=micro
+    make -f Makefile.lufa KEYMAP=cub
 
 
 # Layouts
 
-TODO description of layouts in base firmware binaries
+## Filename
+
+The filename should be of the form `keymap_name.c'
+where `name' can be any text.
+Then, the build system should use your keymapfile when you use
+
+    make -f Makefile.lufa KEYMAP=name
+
+from above.
+
+## Writing
+
+First, it is best to get familar with one of the working examples above.
+If your lanugage is unsupported and you do not feel comfortable writing one, post an issue on github.
+keymap_name.c.template has no keymap defined and all the keymap templates in one place.
+If the keycodes are hard to figure out, /tmk_core/common/keycode.h has the whole list avalable.
+Please drop the `KC_' for each keycode when using keycodes from `keycode.h'.
 
 
 # Things TO-DO
