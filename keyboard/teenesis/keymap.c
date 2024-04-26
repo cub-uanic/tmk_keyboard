@@ -140,7 +140,7 @@ static const uint8_t PROGMEM keymaps[][MATRIX_ROWS][MATRIX_COLS] = {
         NO  ,NO  ,NO  ,NO  ,ACL0,NO  ,               BTN2,WH_L,WH_U,WH_D,WH_R,PGUP,
         NO  ,NO  ,NO  ,TRNS,ACL1,NO  ,               BTN1,MS_L,MS_U,MS_D,MS_R,PGDN,
         NO  ,NO  ,NO  ,NO  ,ACL2,NO  ,               BTN3,HOME,END ,DEL ,INS ,NO  ,
-             NO  ,FN31,NO  ,NO  ,                         NO  ,NO  ,NO  ,NO  ,
+             NO  ,FN31,NO  ,NO  ,                         NO  ,BRTI,BRTD,NO  ,
                                  TRNS,TRNS,     TRNS,TRNS,
                                       TRNS,     TRNS,
                             TRNS,TRNS,TRNS,     TRNS,TRNS,TRNS
