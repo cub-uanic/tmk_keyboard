@@ -1,5 +1,5 @@
 # Target file name (without extension).
-TARGET ?= sun_usb
+TARGET ?= next_usb
 
 # Directory common source filess exist
 TMK_DIR ?= ../../tmk_core
@@ -8,7 +8,7 @@ TMK_DIR ?= ../../tmk_core
 TARGET_DIR ?= .
 
 # keyboard dependent files
-SRC ?=	sun_usb.c
+SRC ?= next_usb.c
 
 
 CONFIG_H ?= config.h
@@ -56,13 +56,13 @@ F_USB ?= $(F_CPU)
 #
 MOUSEKEY_ENABLE ?= yes	# Mouse keys
 EXTRAKEY_ENABLE ?= yes	# Audio control and System control
+NKRO_ENABLE ?= no	# USB Nkey Rollover
+UNIMAP_ENABLE ?= yes
+KEYMAP_SECTION_ENABLE ?= yes
 CONSOLE_ENABLE ?= yes	# Console for debug
-COMMAND_ENABLE ?= yes    # Commands for debug and configuration
-#NKRO_ENABLE ?= yes	# USB Nkey Rollover
-UNIMAP_ENABLE = yes
-KEYMAP_SECTION_ENABLE = yes
+COMMAND_ENABLE ?= yes	# Commands for debug and configuration
 
-SUN_MOUSE_ENABLE ?= yes # Sun mouse support
+#NO_KEYBOARD = yes	# disable keyboard
 
 
 # Boot Section Size in bytes
@@ -89,12 +89,6 @@ ifdef KEYMAP
     SRC := $(KEYMAP_FILE)_$(KEYMAP).c $(SRC)
 else
     SRC := $(KEYMAP_FILE).c $(SRC)
-endif
-
-ifeq (yes,$(strip $(SUN_MOUSE_ENABLE)))
-    OPT_DEFS += -DSUN_MOUSE_ENABLE=1 -DMOUSE_ENABLE=1
-else
-    OPT_DEFS += -DSUN_MOUSE_ENABLE=0
 endif
 
 
