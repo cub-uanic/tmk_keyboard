@@ -44,18 +44,22 @@ Project located at <https://github.com/benblazak/ergodox-firmware>
 /* define if matrix has ghost */
 //#define MATRIX_HAS_GHOST
 
-/* Set 0 if debouncing isn't needed */
 /*
- * This constant define not debouncing time in msecs, but amount of matrix
- * scan loops which should be made to get stable debounced results.
+ * DEBOUNCE describes how many matrix scan phases a key must stabilize after an
+ * edge was detected before a new edge is accepted.
  *
  * On Ergodox matrix scan rate is relatively low, because of slow I2C.
  * Now it's only 317 scans/second, or about 3.15 msec/scan.
  * According to Cherry specs, debouncing time is 5 msec.
  *
- * And so, there is no sense to have DEBOUNCE higher than 2.
+ * Older Cherry switches were observed to have a debounce time of 8 to 10ms, so
+ * we set this to 4 by default. The current debouncing code will transmit the
+ * keypress to the PC instantly on the first edge, so this value does not
+ * influence the latency at all.
+ *
+ * This value must be larger or equal to one.
  */
-#define DEBOUNCE        2
+//#define DEBOUNCE        4
 #define TAPPING_TERM    230
 
 /* Mechanical locking support. Use KC_LCAP, KC_LNUM or KC_LSCR instead in keymap */
